@@ -1,5 +1,5 @@
 # Pegasus-1 Evaluation
-## Pegasus-1 (80B) - The new state-of-the-art video-language foundation model for generating text from a video
+## Pegasus-1 - The new state-of-the-art video-language foundation model for generating text from a video
 Pegasus-1 is a state-of-the-art video-to-text generation model designed by TwelveLabs. Pegasus-1 incorporates visual and speech information to generate comprehensive text from video, achieving the new state-of-the-art performance by huge margins on several video summarization tasks.
 
 ![pegasus-1-overview](assets/pegasus_1_overview.png)
