@@ -1,0 +1,1998 @@
+{
+    "v_adS4bgldY64": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_OkvWTZ4XLyM": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_BjjN_aq_wq4": {
+        "pred_atomic": "[\"She's pretty coordinated.\", \"Get Ellen help me.\", \"I clean up for this.\", \"For her.\", \"You doing real domestic stuff?\", \"Like wife material?\", \"Of course.\", \"But I really wanted you to take the children, not me.\", \"They want to remember you young.\"]",
+        "pred": "She's pretty coordinated. Get Ellen help me. I clean up for this. For her. You doing real domestic stuff? Like wife material? Of course. But I really wanted you to take the children, not me. They want to remember you young."
+    },
+    "v_af05Mqm03Y4": {
+        "pred_atomic": "Here is the list of atomic sentences that can be loaded with json.loads:\n\n[\"SA.\"]",
+        "pred": "SA."
+    },
+    "v_1dDAcUliXrQ": {
+        "pred_atomic": "[\"We are.\"]",
+        "pred": "We are."
+    },
+    "v_-6dz6tBH77I": {
+        "pred_atomic": "[\"Yeah.\"]",
+        "pred": "Yeah."
+    },
+    "v_2fzIi1lPd8U": {
+        "pred_atomic": "[\"Power.\", \"Two powers.\", \"Okay, come right here and give me support.\", \"Now, what do I do first?\"]",
+        "pred": "Power. Two powers. Okay, come right here and give me support. Now, what do I do first?"
+    },
+    "v_DOI6tsATsE4": {
+        "pred_atomic": "[\"Keep drinking coffee\", \"stare me down across the table\", \"while I look outside\"]",
+        "pred": "Keep drinking coffee, stare me down across the table while I look outside."
+    },
+    "v__B7rGFDRIww": {
+        "pred_atomic": "[\"Can't hold it back anymore.\", \"Let the door in.\", \"Let it go.\", \"The cold never bothered me anyway standing frozen in the light.\", \"The past is out behind me, buried in the snow.\", \"You won't find me.\"]",
+        "pred": "\"Can't hold it back anymore. Let the door in. Let it go. The cold never bothered me anyway standing frozen in the light. The past is out behind me, buried in the snow. You won't find me \""
+    },
+    "v_EhzHU0gkrzA": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_itXYuf_Cj_Q": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\"]",
+        "pred": "Sam. Sam."
+    },
+    "v_rOtmhurweqo": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_1kwIYXB4b8s": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_Kofjs0rkwxc": {
+        "pred_atomic": "[\"Cuisine on Queue is one of London's leading catering specialists.\", \"Show you how to make a turkey sandwich.\", \"Turkey sandwich is good all year round, I prefer mainly at Christmas.\", \"Best way of serving it with is a cranberry sauce.\"]",
+        "pred": " Cuisine on Queue is one of London's leading catering specialists. Show you how to make a turkey sandwich. Turkey sandwich is good all year round, I prefer mainly at Christmas. Best way of serving it with is a cranberry sauce."
+    },
+    "v_Omvg9UtGOes": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\", \"Sam.\"]",
+        "pred": "Sam. Sam. Sam."
+    },
+    "v_Ws12Dt0Ny5Q": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\", \"Sam.\", \"Ram.\", \"Sam.\", \"Sam.\", \"Sam,\", \"sam.\"]",
+        "pred": "Sam. Sam. Sam. Ram. Sam. Sam. Sam, sam."
+    },
+    "v_p9lhwYsBWdc": {
+        "pred_atomic": "[\"The window washing company thought it would be a great idea just to have the workers dress up in superhero costumes.\", \"The kids really get into it.\", \"Even whenever they're not costumes, they're super excited to see someone outside of their window washing the windows.\"]",
+        "pred": "The window washing company thought it would be a great idea just to have the workers dress up in superhero costumes. The kids really get into it. Even whenever they're not costumes, they're super excited to see someone outside of their window washing the windows."
+    },
+    "v_dN8LBey17O8": {
+        "pred_atomic": "[\"Alan Hayne: What do I do if I need to mow my lawn and it's overgrown?\", \"Lightning in the air releases natural nitrogen, which will stimulate growth in the lawn.\", \"Key to remember here is you want to do this when the weather is cool.\"]",
+        "pred": "Alan Hayne: What do I do if I need to mow my lawn and it's overgrown? Lightning in the air releases natural nitrogen, which will stimulate growth in the lawn. Key to remember here is you want to do this when the weather is cool."
+    },
+    "v_JspVuT6rsLA": {
+        "pred_atomic": "[\"Sam SA.\"]",
+        "pred": "Sam SA."
+    },
+    "v_gmbC7D6HfuM": {
+        "pred_atomic": "[\"We don't get you to me like I never like when you I feel happy about.\"]",
+        "pred": "We don't get you to me like I never like when you I feel happy about."
+    },
+    "v_4KMG6lEDSIM": {
+        "pred_atomic": "[\"It's not martial arts without a competition.\", \"Here's some of the nonstop action that took place during this once in a lifetime event.\", \"They deserve it.\", \"Give it to them.\"]",
+        "pred": "It's not martial arts without a competition. Here's some of the nonstop action that took place during this once in a lifetime event. They deserve it. Give it to them."
+    },
+    "v_0x6ZV9Y8g_c": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_TKgU9QJXw2w": {
+        "pred_atomic": "To convert the passage into a list of atomic sentences that can be loaded with `json.loads`, you can use the following code:\n\n```python\nimport json\n\npassage = \"Boy test your mind test your mind test your white test your whitem sam.\"\n\n# Split the passage into atomic sentences\natomic_sentences = passage.split(\". \")\n\n# Convert the list into a JSON-serializable format\njson_atomic_sentences = json.dumps(atomic_sentences)\n\nprint(json_atomic_sentences)\n```\n\nOutput:\n```\n[\"Boy test your mind test your mind test your white test your whitem sam.\"]\n```\n\nThe `json_atomic_sentences` variable will contain the list of atomic sentences in a JSON-serializable format.",
+        "pred": "Boy test your mind test your mind test your white test your whitem sam."
+    },
+    "v_X9Y-b-SbkIU": {
+        "pred_atomic": "[\"FitRec offers a variety of court sports, including squash, racquetball and tennis.\", \"These court sports offer a fantastic cardiovascular workout as players burn an average of 600 to 1000 calories per hour.\", \"FitRec offer adult and children's classes for all skill levels.\"]",
+        "pred": "FitRec offers a variety of court sports, including squash, racquetball and tennis. These court sports offer a fantastic cardiovascular workout as players burn an average of 600 to 1000 calories per hour. FitRec offer adult and children's classes for all skill levels."
+    },
+    "v_0rr7iGHamw0": {
+        "pred_atomic": "[\"Valerie is ironing T shirts for the Twitterville book launch.\", \"Let's see what the final product looks like.\", \"I think it's going to take a while for this to, like, cool.\"]",
+        "pred": "Valerie is ironing T shirts for the Twitterville book launch. Let's see what the final product looks like. I think it's going to take a while for this to, like, cool."
+    },
+    "v_vo2M4sY0E38": {
+        "pred_atomic": "[\"It\", \"it's.\"]",
+        "pred": "It it's."
+    },
+    "v_wJk3KOUAwXA": {
+        "pred_atomic": "[\"Tod Langwell is the flying furniture guy from R D Wood Shop in Scotia, New York.\", \"Today he shows you how to restore laminate furniture.\", \"Use a dark paste wax with standard steel.\", \"Then take a buffing wheel or a car buffing wheels for polish.\"]",
+        "pred": "Tod Langwell is the flying furniture guy from R D Wood Shop in Scotia, New York. Today he shows you how to restore laminate furniture. Use a dark paste wax with standard steel. Then take a buffing wheel or a car buffing wheels for polish."
+    },
+    "v_a_JlhLnJM98": {
+        "pred_atomic": "[\"Donna BethJoy Shapiro shows you how to iron a man's cotton dress shirt.\", \"Some shirts are difficult to get flat.\", \"Make sure that you don't iron over the buttons.\", \"I find ironing this part of the shirt particularly satisfying.\"]",
+        "pred": "Donna BethJoy Shapiro shows you how to iron a man's cotton dress shirt. Some shirts are difficult to get flat. Make sure that you don't iron over the buttons. I find ironing this part of the shirt particularly satisfying."
+    },
+    "v_iqhdqhVttEM": {
+        "pred_atomic": "[\"Join us for 530 free salsa on Tuesdays all summer long.\", \"Brought to you by Paul Palo Coral Dance Court and the 34th Street Partnership.\", \"There's a money back guarantee on your free Zuma class.\"]",
+        "pred": "Join us for 530 free salsa on Tuesdays all summer long. Brought to you by Paul Palo Coral Dance Court and the 34th Street Partnership. There's a money back guarantee on your free Zuma class."
+    },
+    "v_jkrlHzTRTvo": {
+        "pred_atomic": "[\"We are always running for the trailer, always pushing up the heels.\", \"All I know we are calling out now what's in front of me?\", \"Why the one as a one as you want\"]",
+        "pred": "\"We are always running for the trailer, always pushing up the heels. All I know we are calling out now what's in front of me? Why the one as a one as you want \""
+    },
+    "v_kdOsmDACtqw": {
+        "pred_atomic": "[\"The best thing that happened to rap since Rapid venture.\", \"Always hate to all the ladies.\", \"Love it.\", \"Vandalist like festival here with Vandalists.\", \"Party hard tonight.\", \"Everybody rock.\"]",
+        "pred": "\"The best thing that happened to rap since Rapid venture. Always hate to all the ladies. Love it. Vandalist like festival here with Vandalists. Party hard tonight. Everybody rock \""
+    },
+    "v_49PbyLbrxlE": {
+        "pred_atomic": "[\"A day in the life.\", \"Like I'm drinking tomorrow.\", \"Here's how I wash things.\", \"I'm not aiming for perfection here.\", \"Just a little bit clean.\", \"Not as stinky.\"]",
+        "pred": "A day in the life. Like I'm drinking tomorrow. Here's how I wash things. I'm not aiming for perfection here. Just a little bit clean. Not as stinky."
+    },
+    "v_dO01vfB9z4g": {
+        "pred_atomic": "[\"No, but you drop no good.\", \"But I Jamaican.\", \"If you won't forget the Bella motherboard.\", \"Oh, it it one that's.\"]",
+        "pred": "No, but you drop no good. But I Jamaican. If you won't forget the Bella motherboard. Oh, it it one that's."
+    },
+    "v_UNXLfqkwKFc": {
+        "pred_atomic": "[\"We just want to see what our old Hoover vacuum cleaner missed.\", \"This is the new Dyson we just purchased.\", \"If we had only known, we would have never, ever purchased a Hoover.\", \"Thank you, Dyson.\"]",
+        "pred": "We just want to see what our old Hoover vacuum cleaner missed. This is the new Dyson we just purchased. If we had only known, we would have never, ever purchased a Hoover. Thank you, Dyson."
+    },
+    "v_FzqZsQx20jY": {
+        "pred_atomic": "[\"Hi, Katie.\", \"Playing up in the she won.\", \"You know what happened?\", \"What happened?\", \"Too close.\", \"Didn't qualify for regional.\", \"It wouldn't have qualified.\", \"Good girl.\", \"Come on.\", \"Don't premature e cheerily.\"]",
+        "pred": "Hi, Katie. Playing up in the she won. You know what happened? What happened? Too close. Didn't qualify for regional. It wouldn't have qualified. Good girl. Come on. Don't premature e cheerily."
+    },
+    "v_5cijPqKVc84": {
+        "pred_atomic": "[\"A lightweight kayak has better acceleration.\", \"A longer, wider kayak will be able to carry more material.\", \"What's the difference between sitting inside a kayak and sitting on top of the kayak?\"]",
+        "pred": "A lightweight kayak has better acceleration. A longer, wider kayak will be able to carry more material. What's the difference between sitting inside a kayak and sitting on top of the kayak?"
+    },
+    "v_rklYNAAaI3Y": {
+        "pred_atomic": "[\"One a week we do laundry.\", \"Dion's helping me say ola Diane.\", \"Guyon can't walk without assistance.\", \"Little Diane gets to help out here.\", \"He loves it.\", \"No matter what you do, he likes to be part of it.\"]",
+        "pred": "One a week we do laundry. Dion's helping me say ola Diane. Guyon can't walk without assistance. Little Diane gets to help out here. He loves it. No matter what you do, he likes to be part of it."
+    },
+    "v_BFChXuwZ4wo": {
+        "pred_atomic": "[\"Abby gets a tattoo.\", \"Do you get nervous yet?\", \"No.\", \"We're excited.\", \"Can you get a picture of Abby to send Evan?\", \"Did it.\"]",
+        "pred": "Abby gets a tattoo. Do you get nervous yet? No. We're excited. Can you get a picture of Abby to send Evan? Did it."
+    },
+    "v_IfugNwywj-k": {
+        "pred_atomic": "[\"Yes.\", \"I come from my bike.\", \"Is this your bike?\", \"Yes.\", \"How to pay here for you ask.\", \"No money.\", \"You are old man.\", \"What?\", \"No money here.\", \"Suck a guy.\"]",
+        "pred": "Yes. I come from my bike. Is this your bike? Yes. How to pay here for you ask. No money. You are old man. What? No money here. Suck a guy."
+    },
+    "v_PzJsoZT2hXk": {
+        "pred_atomic": "[\"Flow and Mo show you how to fold your wrapping paper and stick your card inside.\", \"Don't forget your bow.\", \"For more fun with Flow and Mo, visit our YouTube channel.\"]",
+        "pred": "Flow and Mo show you how to fold your wrapping paper and stick your card inside. Don't forget your bow. For more fun with Flow and Mo, visit our YouTube channel."
+    },
+    "v_W9H2qVnIWXs": {
+        "pred_atomic": "[\"Who let the dog shower IconFIA to cachoro and manos the professional?\", \"Yes.\", \"Shower.\", \"Lusca masarmosa de la lunasi.\", \"Attention de lunasa savado de ocho.\"]",
+        "pred": "Who let the dog shower IconFIA to cachoro and manos the professional? Yes. Shower. Lusca masarmosa de la lunasi. Attention de lunasa savado de ocho."
+    },
+    "v_kIFHChO_-vg": {
+        "pred_atomic": "[\"Should we take a look at your hair?\", \"See how it looks?\", \"You want curly hair?\", \"Here we go.\", \"Let me see how beautiful it is.\", \"Let MMM.\", \"You like it?\", \"All done?\"]",
+        "pred": "Should we take a look at your hair? See how it looks? You want curly hair? Here we go. Let me see how beautiful it is. Let MMM. You like it? All done?"
+    },
+    "v_cECycCDw1Nc": {
+        "pred_atomic": "[\"Sue Walker shows you how to make a pepperoni sandwich.\", \n\"The ingredients are one French roll, sliced pepperoni, mayonnaise, pizza sauce, four slices of mozzarella cheese, sliced tomatoes and shredded lettuce.\", \n\"Turn the oven on to broil.\"]",
+        "pred": "Sue Walker shows you how to make a pepperoni sandwich. The ingredients are one French roll, sliced pepperoni, mayonnaise, pizza sauce, four slices of mozzarella cheese, sliced tomatoes and shredded lettuce. Turn the oven on to broil."
+    },
+    "v_NwlIZ1T93xE": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_zRqJZ0u6f88": {
+        "pred_atomic": "[\"Once tint is installed, how do you clean the windows?\", \"The only thing that we recommend is make sure you use a soft cotton cloth or a microfiber towel.\", \"You can use any window cleaning agent that you desire.\", \"And you will find that your window will turn out to be very clean.\"]",
+        "pred": "Once tint is installed, how do you clean the windows? The only thing that we recommend is make sure you use a soft cotton cloth or a microfiber towel. You can use any window cleaning agent that you desire. And you will find that your window will turn out to be very clean."
+    },
+    "v_YAMhMB1jdio": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_TEgPIueNqTI": {
+        "pred_atomic": "[\"Just move V-I-R it.\", \"How many coats do you have?\", \"How many codes?\", \"How Many what codes?\", \"One.\", \"It's behind my head.\", \"I can't see what's going on.\"]",
+        "pred": "Just move V-I-R it. How many coats do you have? How many codes? How Many what codes? One. It's behind my head. I can't see what's going on."
+    },
+    "v_dKJMP8EmZjw": {
+        "pred_atomic": "[\"Count down to exile.\", \"Count out to act out to exalt county.\", \"More mercading, will it's a powder cake full of pop up everything.\", \"See the blue for the final mode.\", \"And next sections to the X red bones buckle grinning.\"]",
+        "pred": "Count down to exile. Count out to act out to exalt county. More mercading, will it's a powder cake full of pop up everything. See the blue for the final mode. And next sections to the X red bones buckle grinning."
+    },
+    "v_kfO5PGlsMJw": {
+        "pred_atomic": "[\"Sam.\", \"Oh, my goodness.\", \"It looks like satin.\", \"It's pretty.\"]",
+        "pred": "Sam. Oh, my goodness. It looks like satin. It's pretty."
+    },
+    "v_Rn6_IwckXg4": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_di5f5hM05Vw": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\", \"WAM sam.\"]",
+        "pred": "Sam. Sam. WAM sam."
+    },
+    "v_hq48S65dlyo": {
+        "pred_atomic": "[\"You.\", \"20 a minute and 30 seconds.\", \"92nd.\", \"Half one.\", \"Let's go.\", \"Step kick.\", \"15 seconds.\", \"Go.\"]",
+        "pred": "You. 20 a minute and 30 seconds. 92nd. Half one. Let's go. Step kick. 15 seconds. Go."
+    },
+    "v_araMJB23T1s": {
+        "pred_atomic": "[\"Hey.\", \"All right.\", \"Cocoono Jimbi.\", \"Here we go.\", \"Go y'all Hamid on.\", \"Going through the rida never.\", \"Don't.\"]",
+        "pred": "Hey. All right. Cocoono Jimbi. Here we go. Go y'all Hamid on. Going through the rida never. Don't."
+    },
+    "v_vI-O6QWIIGU": {
+        "pred_atomic": "[\"Sam there's makes it.\"]",
+        "pred": "Sam there's makes it."
+    },
+    "v_OlykXdYeQOI": {
+        "pred_atomic": "[\"Walk away with communication.\", \"Like, don't think about is eating at eating a way my brother.\", \"Oh, no.\", \"Battery.\"]",
+        "pred": "Walk away with communication. Like, don't think about is eating at eating a way my brother. Oh, no. Battery."
+    },
+    "v_sNJ6_N0j9Ts": {
+        "pred_atomic": "[\"My dad's in the white playing racquetball.\", \"It was pretty dry.\", \"I was surprised and pretty, I guess, with his gray.\", \"Showing you guys a little clip.\"]",
+        "pred": "My dad's in the white playing racquetball. It was pretty dry. I was surprised and pretty, I guess, with his gray. Showing you guys a little clip."
+    },
+    "v_MxvKscpouzY": {
+        "pred_atomic": "[\"Champions stand up stand up for the champions all the champions stand up.\", \"It's just who wants it most.\", \"Because we have our strengths and weaknesses.\", \"Watch champions watch it.\"]",
+        "pred": "Champions stand up stand up for the champions all the champions stand up. It's just who wants it most. Because we have our strengths and weaknesses. Watch champions watch it."
+    },
+    "v__ja1fre9OTE": {
+        "pred_atomic": "[\"Serious?\", \"Yeah.\", \"Whoa.\", \"Oh, Jesus.\", \"That's new.\", \"Come on, now.\", \"It's 10 seconds.\", \"Come.\", \"On.\"]",
+        "pred": "Serious? Yeah. Whoa. Oh, Jesus. That's new. Come on, now. It's 10 seconds. Come. On."
+    },
+    "v_jWH-2aa1gJY": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\"]",
+        "pred": "Sam. Sam."
+    },
+    "v_5qY9yPt-5Go": {
+        "pred_atomic": "[\"Do you want a cup of coffee?\", \"You go.\", \"Piggy.\", \"Can you get all hyper?\", \"Come on, just.\"]",
+        "pred": "Do you want a cup of coffee? You go. Piggy. Can you get all hyper? Come on, just."
+    },
+    "v_9Ufy_JGbnys": {
+        "pred_atomic": "[\"SA it every leave us without yama.\"]",
+        "pred": "SA it every leave us without yama."
+    },
+    "v_GH0Umpw6tME": {
+        "pred_atomic": "[\"One.\", \"Oh, here we go.\", \"This will be it, ladies.\", \"All four and we're done.\", \"High leg, low leg.\", \"Shuffle to the back.\", \"Duck door.\", \"Kick, work el step, dagger.\", \"Mambo turning me.\"]",
+        "pred": "One. Oh, here we go. This will be it, ladies. All four and we're done. High leg, low leg. Shuffle to the back. Duck door. Kick, work el step, dagger. Mambo turning me."
+    },
+    "v_aQ-F9wr0HQ4": {
+        "pred_atomic": "[\"Favor has lemon wax good for the wood, cause it's wax.\", \"Malnutrition feed your furniture.\", \"That finish won't shine because you can't get it clean.\", \"Favor it.\"]",
+        "pred": "Favor has lemon wax good for the wood, cause it's wax. Malnutrition feed your furniture. That finish won't shine because you can't get it clean. Favor it."
+    },
+    "v_ooFuSspUuVY": {
+        "pred_atomic": "[\"Think about making your circle nice and big.\", \"At least 10 to 15 meters would be good.\", \"Michelle on Twist, try for a bigger circle next time.\", \"Hold the outside rain.\", \"Good boy.\", \"Stay up there.\"]",
+        "pred": "Think about making your circle nice and big. At least 10 to 15 meters would be good. Michelle on Twist, try for a bigger circle next time. Hold the outside rain. Good boy. Stay up there."
+    },
+    "v_UtV69uNmzlE": {
+        "pred_atomic": "[\"Check.\", \"Facebook my mom in a what?\", \"Are you recording?\", \"Yep.\", \"Keep going.\", \"You're the one that wanted to do it.\", \"I should pick the toilet, not the sink.\", \"We did.\"]",
+        "pred": "Check. Facebook my mom in a what? Are you recording? Yep. Keep going. You're the one that wanted to do it. I should pick the toilet, not the sink. We did."
+    },
+    "v_6utacRir3uM": {
+        "pred_atomic": "[\"Now we're gonna step up on the bed.\", \"Step it up and down.\", \"Pop it come down.\", \"Uhoh, okay.\"]",
+        "pred": "Now we're gonna step up on the bed. Step it up and down. Pop it come down. Uhoh, okay."
+    },
+    "v_Q3ZNFGE8PZE": {
+        "pred_atomic": "[\"Gonna make you move here.\", \"We come under us.\", \"Don't know what we're running, bro.\", \"You gotta do your thing.\", \"You Sam.\"]",
+        "pred": "Gonna make you move here. We come under us. Don't know what we're running, bro. You gotta do your thing. You Sam."
+    },
+    "v_w46wkDledek": {
+        "pred_atomic": "[\"Money.\", \"It's good to be just a factor.\", \"You never yeah no.\", \"Judy, why you never tried to be.\", \"When they looked me asking us go see all that money.\", \"He said as if I must it's a beginner.\"]",
+        "pred": "Money. It's good to be just a factor. You never yeah no. Judy, why you never tried to be. When they looked me asking us go see all that money. He said as if I must it's a beginner."
+    },
+    "v_u0A5NIUKEQo": {
+        "pred_atomic": "[\"Sam, I'm here.\", \"You should watch our last video, like our Facebook page.\", \"Did they do it?\", \"Did they?\", \"I think they did.\", \"Dang it.\", \"I wasn't supposed to do that.\"]",
+        "pred": "Sam, I'm here. You should watch our last video, like our Facebook page. Did they do it? Did they? I think they did. Dang it. I wasn't supposed to do that."
+    },
+    "v_HURRgbZGz8Q": {
+        "pred_atomic": "[\"SA.\", \"We know Japan in Finland.\", \"Symbolic of orphan.\"]",
+        "pred": "SA. We know Japan in Finland. Symbolic of orphan."
+    },
+    "v_QY3q4DuiGq8": {
+        "pred_atomic": "[\"Coaches at 01:00 P.m. for eight.\", \"Gideon Alumni Learning Center.\", \"Number three.\", \"Number four.\", \"Number five.\", \"Number six.\", \"Number seven.\", \"Number eight.\"]",
+        "pred": "Coaches at 01:00 P.m. for eight. Gideon Alumni Learning Center. Number three. Number four. Number five. Number six. Number seven. Number eight."
+    },
+    "v_mMebSMn5D0E": {
+        "pred_atomic": "[\"So piano.\", \"We need more more piano.\", \"More piano.\", \"Don't sam.\", \"Thank you very much.\", \"I I love the way Sam.\", \"works.\"]",
+        "pred": "So piano. We need more more piano. More piano. Don't sam. Thank you very much. I I love the way Sam. works."
+    },
+    "v_wFVukrQfQhI": {
+        "pred_atomic": "[\"Handout.\", \"One, two, one.\", \"Left, three, one's.\", \"Break under it's it.\"]",
+        "pred": "Handout. One, two, one. Left, three, one's. Break under it's it."
+    },
+    "v_eoSwoeLmeyQ": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_l8gg9TYh_B0": {
+        "pred_atomic": "[\"Doctors say shoveling snow can be more strenuous than a typical workout.\", \"The exercise causes the increase in heart rate, blood pressure, and it increases the oxygen consumption to the heart.\", \"Knowing your limits can prevent a heart attack.\"]",
+        "pred": "Doctors say shoveling snow can be more strenuous than a typical workout. The exercise causes the increase in heart rate, blood pressure, and it increases the oxygen consumption to the heart. Knowing your limits can prevent a heart attack."
+    },
+    "v_AE2gHOwcV14": {
+        "pred_atomic": "[\"Go ahead.\", \"Look high post.\"]",
+        "pred": "Go ahead, look high post."
+    },
+    "v_NM7Vye5nxj8": {
+        "pred_atomic": "[\"Oh, yeah.\"]",
+        "pred": "Oh, yeah."
+    },
+    "v_Mk7Yjq1U8OI": {
+        "pred_atomic": "[\"But I love you get your game let it go like a jagger\", \n\"I should get some of your own killing\", \n\"You can't stop shouting at me, calling at me without me you can't get up out\", \n\"The Star.\"]",
+        "pred": "But I love you get your game let it go like a jagger I should get some of your own killing. You can't stop shouting at me, calling at me without me you can't get up out. The Star."
+    },
+    "v_9hTcvGUnMBs": {
+        "pred_atomic": "[\"And you guys now doing your press presentation.\"]",
+        "pred": "And you guys now doing your press presentation."
+    },
+    "v_agu58IVL7IQ": {
+        "pred_atomic": "[\"Yellow wolf main angle\", \"yellow wolf chain how to resume\", \"Tell me what you want again\", \"I just want to party\", \"You ain't gotta put your dope away\", \"Got so many yuckles I could pull the motherfiddling train kitchen for the bottom\"]",
+        "pred": "Yellow wolf main angle, yellow wolf chain how to resume. Tell me what you want again. I just want to party. You ain't gotta put your dope away. Got so many yuckles I could pull the motherfiddling train kitchen for the bottom."
+    },
+    "v_BSwChZlOb0k": {
+        "pred_atomic": "[\"Flaming.\", \"Cassidy is gonna take a flaming.\", \"Do not burn it on me.\", \"I'll kill you.\", \"Here it is.\", \"This is the worst.\"]",
+        "pred": "Flaming. Cassidy is gonna take a flaming. Do not burn it on me. I'll kill you. Here it is. This is the worst."
+    },
+    "v_2nDbYhgdw2A": {
+        "pred_atomic": "[\"break dancing was born about ten years ago in the South Bronx.\", \"Combining mime and acrobatics, it demands discipline, great dexterity and boundless energy.\", \"As a spectator, it is often a bewildering succession of steps and turns.\"]",
+        "pred": " break dancing was born about ten years ago in the South Bronx. Combining mime and acrobatics, it demands discipline, great dexterity and boundless energy. As a spectator, it is often a bewildering succession of steps and turns."
+    },
+    "v_HMs703DhjQU": {
+        "pred_atomic": "[\"Master William talks about how he feels without Karen.\", \"Says everything goes from drab black and white to glorious colour.\", \"Then just as suddenly she's gone.\", \"The door slams in your face.\"]",
+        "pred": "Master William talks about how he feels without Karen. Says everything goes from drab black and white to glorious colour. Then just as suddenly she's gone. The door slams in your face."
+    },
+    "v_d09u-0k3LdE": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_e3DB_y78IHc": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\", \"Sam.\"]",
+        "pred": "Sam. Sam. Sam."
+    },
+    "v_ypfWA4aDL6k": {
+        "pred_atomic": "[\"Sorry about.\"]",
+        "pred": "Sorry about."
+    },
+    "v_aYxni8ohTfU": {
+        "pred_atomic": "[\"Latvia win first set point of the tournament.\", \"Great pickup from Smedins.\", \"Just world class from Emmanuel Lupo.\", \"Both teams working so hard.\", \"Super defending from Latvia.\", \"Great finish by Smeddings.\"]",
+        "pred": "Latvia win first set point of the tournament. Great pickup from Smedins. Just world class from Emmanuel Lupo. Both teams working so hard. Super defending from Latvia. Great finish by Smeddings."
+    },
+    "v_6Xsfwn5M6qs": {
+        "pred_atomic": "[\"Alex kirk golder.\", \"Impeccably done double top.\", \"Older with handstand.\", \"Pretty good dying hand the best he's been doing right on point for regional.\", \"State championships coming up soon.\", \"Hopefully he keeps together.\", \"Not like Jordan.\"]",
+        "pred": "Alex kirk golder. Impeccably done double top. Older with handstand. Pretty good dying hand the best he's been doing right on point for regional. State championships coming up soon. Hopefully he keeps together. Not like Jordan."
+    },
+    "v_6G8m-vsGTA8": {
+        "pred_atomic": "[\"So yeah.\", \"Just hanging out and about right now.\", \"Walgreens.\", \"Got new hats, the autobot hats and getting the movie transformers.\", \"Anyway, I'm just reporting live.\", \"I'll catch guys all later back on YouTube.\", \"Bye.\"]",
+        "pred": "So yeah. Just hanging out and about right now. Walgreens. Got new hats, the autobot hats and getting the movie transformers. Anyway, I'm just reporting live. I'll catch guys all later back on YouTube. Bye."
+    },
+    "v_iABuDhagUm8": {
+        "pred_atomic": "[\"It.\"]",
+        "pred": "It."
+    },
+    "v_QriYk3MKSnM": {
+        "pred_atomic": "[\"Maddie do hers.\", \"Allie do the other side.\", \"Hurry up.\", \"Are you videotating it?\", \"Yeah me up.\", \"They could totally be related.\"]",
+        "pred": "Maddie do hers. Allie do the other side. Hurry up. Are you videotating it? Yeah me up. They could totally be related."
+    },
+    "v_lU6DMCif3eE": {
+        "pred_atomic": "[\"Sam.\", \"Ram sam.\", \"Sam.\"]",
+        "pred": "Sam. Ram sam. Sam."
+    },
+    "v_7gaC3b5nJqs": {
+        "pred_atomic": "[\"Gotta be on the dead of the night, on me.\", \"Gotta touch up all the time.\", \"Show you how to do it.\", \"What should that work?\", \"You gotta be what you got.\"]",
+        "pred": "Gotta be on the dead of the night, on me. Gotta touch up all the time. Show you how to do it. What should that work? You gotta be what you got."
+    },
+    "v_Ds2O0-8Labs": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_FOZdNPQ7d5Q": {
+        "pred_atomic": "[\"Titles kind of go hand in hand there in action tonight.\", \"Only news really surrounding the ranch today is the fact that Robert Alondo is no longer a member of the team begin their playoff.\"]",
+        "pred": "Titles kind of go hand in hand there in action tonight. Only news really surrounding the ranch today is the fact that Robert Alondo is no longer a member of the team begin their playoff."
+    },
+    "v_JH9qiuPCkY4": {
+        "pred_atomic": "[\"Bun thing that's one of the most important things in Motocross is make sure you're wearing all your gear, your safe gear.\", \"Make sure you don't drive on the streets, because these bikes are not made for the streets.\"]",
+        "pred": "Bun thing that's one of the most important things in Motocross is make sure you're wearing all your gear, your safe gear. Make sure you don't drive on the streets, because these bikes are not made for the streets."
+    },
+    "v_BmLDHLKiIdQ": {
+        "pred_atomic": "[\"And so but yeah manion yeah pionee paul pushing to Chandale shin.\", \"Popular pakimbai Simida or Marakin JenGar kayo.\", \"Oh, the pura young do tiji daga time.\", \"I'm about to go and roam.\"]",
+        "pred": "And so but yeah manion yeah pionee paul pushing to Chandale shin. Popular pakimbai Simida or Marakin JenGar kayo. Oh, the pura young do tiji daga time. I'm about to go and roam."
+    },
+    "v_1XNHcfxTqW0": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_CTyvQHkAKuY": {
+        "pred_atomic": "[\"I won't be what I don't let on every song that yes I won't if I can't me not alone yet.\", \"\\\"I don't have to do I let all the me.\"]",
+        "pred": "I won't be what I don't let on every song that yes I won't if I can't me not alone yet. \"I don't have to do I let all the me."
+    },
+    "v_KvtqF0LaWU0": {
+        "pred_atomic": "[\"It has basil, some cherry tomatoes and mozzarella cheese.\", \"The final thing that makes this so delicious and so easy to make our vignette.\", \"Cooking with vineyard.\", \"So simple.\", \"Kids can do it.\"]",
+        "pred": "It has basil, some cherry tomatoes and mozzarella cheese. The final thing that makes this so delicious and so easy to make our vignette. Cooking with vineyard. So simple. Kids can do it."
+    },
+    "v_bphckj0BV5U": {
+        "pred_atomic": "[\"There's few people out there who use a ferro rod and a carbon based knife to make fire.\", \"One of the most important things you have to have with it is dry tinder.\", \"It doesn't always work that quickly, and that's why we always go back to the big lighter.\"]",
+        "pred": "There's few people out there who use a ferro rod and a carbon based knife to make fire. One of the most important things you have to have with it is dry tinder. It doesn't always work that quickly, and that's why we always go back to the big lighter."
+    },
+    "v_hFi6S_guB7I": {
+        "pred_atomic": "[\"Sam.\", \"I want to everybody where it's?\"]",
+        "pred": "Sam. I want to everybody where it's?"
+    },
+    "v_dhsSq0K1xEg": {
+        "pred_atomic": "[\"Saxophone is an innocent instrument supposed to spread the love.\", \"A lady with a child in her hand smacked me in the face and said, don't play that.\", \"But I pretty much like playing anything.\"]",
+        "pred": "Saxophone is an innocent instrument supposed to spread the love. A lady with a child in her hand smacked me in the face and said, don't play that. But I pretty much like playing anything."
+    },
+    "v_hvhny4-sI-w": {
+        "pred_atomic": "[\"Looks like it's going to be Naveen Jindal to strike from the penalty spot.\", \"There was a time more than 100 years back that polo was a national sport of India.\", \"Angut Sunlu Angus playing very confidently.\"]",
+        "pred": "Looks like it's going to be Naveen Jindal to strike from the penalty spot. There was a time more than 100 years back that polo was a national sport of India. Angut Sunlu Angus playing very confidently."
+    },
+    "v_ARpoJIBF2NM": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\", \"Sam.\"]",
+        "pred": "Sam. Sam. Sam."
+    },
+    "v_t13MQSYjlas": {
+        "pred_atomic": "[\"There was two roti.\"]",
+        "pred": "There was two roti."
+    },
+    "v_9lAT3oA9Ixs": {
+        "pred_atomic": "[\"Little far.\", \"You don splitting a big old oak tree up into littler and littled pieces to heat our house.\", \"Cool.\", \"He's getting warm twice right now.\"]",
+        "pred": "Little far. You don splitting a big old oak tree up into littler and littled pieces to heat our house. Cool. He's getting warm twice right now."
+    },
+    "v_4Gx_8vuxzAk": {
+        "pred_atomic": "[\"When dusting, start by removing everything off of your surface that you're going to dust.\", \"Just get a little bit of furniture polish and sprinkle it on there.\", \"You never want to use spray on clean because it leaves up unnecessary buildup.\"]",
+        "pred": "When dusting, start by removing everything off of your surface that you're going to dust. Just get a little bit of furniture polish and sprinkle it on there. You never want to use spray on clean because it leaves up unnecessary buildup."
+    },
+    "v_x90zpDHTpjQ": {
+        "pred_atomic": "[\"The monthly treatment was on your mother.\", \"Who?\", \"It umbrellasuki.\", \"United Petrol.\", \"Deal with Saint Yaguapril by way to steal Zagu.\", \"We can undo it.\"]",
+        "pred": "The monthly treatment was on your mother. Who? It umbrellasuki. United Petrol. Deal with Saint Yaguapril by way to steal Zagu. We can undo it."
+    },
+    "v_Dbas61NkTV0": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_KlgrI3Ngwv0": {
+        "pred_atomic": "[\"Alan Ball.\", \"Up next on High Bar for Illinois, Chris Brooks.\", \"Built in honor Cyprus.\", \"Get Chris.\"]",
+        "pred": "Alan Ball. Up next on High Bar for Illinois, Chris Brooks. Built in honor Cyprus. Get Chris."
+    },
+    "v_wEehiYq9ttE": {
+        "pred_atomic": "[\"I just finished waiting for a fight.\", \"Look outside.\", \"All of a sudden.\"]",
+        "pred": "I just finished waiting for a fight. Look outside. All of a sudden."
+    },
+    "v_Sf27WmcLb2w": {
+        "pred_atomic": "[\"It allow 15?\", \"Hello?\", \"Yes.\", \"What does it.\"]",
+        "pred": "It allow 15? Hello? Yes. What does it."
+    },
+    "v_QOsG3BeQeX0": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_HkbOI7gEtKk": {
+        "pred_atomic": "[\"Asia DeMarcos shows you how to make a cleanser with baking soda.\", \"The baking soda is going to work as a mild exfoliant for the skin.\", \"Lukewarm water is very important when washing your skin.\", \"Too much heat on the skin can cause it to over dry or dehydrate.\"]",
+        "pred": "Asia DeMarcos shows you how to make a cleanser with baking soda. The baking soda is going to work as a mild exfoliant for the skin. Lukewarm water is very important when washing your skin. Too much heat on the skin can cause it to over dry or dehydrate."
+    },
+    "v_meNgZdu8tIk": {
+        "pred_atomic": "[\"Anand's Stall, situated at Williparli West near Mitibai College in Mumbai, famous for its grilled sand.\", \"People come here in abundance to relish the taste of this vegetarian delicacy.\", \"These sandwiches can easily add a few extra pounds to your weight.\"]",
+        "pred": "Anand's Stall, situated at Williparli West near Mitibai College in Mumbai, famous for its grilled sand. People come here in abundance to relish the taste of this vegetarian delicacy. These sandwiches can easily add a few extra pounds to your weight."
+    },
+    "v_j6ElczD-Pw4": {
+        "pred_atomic": "[\"This was all on her own.\", \"Fine.\", \"Other.\", \"We're still friends, Lou.\", \"Amy, look at me.\", \"This is my stupid friend, Amy.\"]",
+        "pred": "This was all on her own. Fine. Other. We're still friends, Lou. Amy, look at me. This is my stupid friend, Amy."
+    },
+    "v_7-taNK5mW8E": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_7orO93DICYw": {
+        "pred_atomic": "[\"Hi, guys.\"]",
+        "pred": "Hi, guys."
+    },
+    "v_myGBEXiYGOU": {
+        "pred_atomic": "[\"I am a mansion.\", \"I am the sea.\", \"You can't take that away from me.\", \"Because you tear us apart with all the things you don't like.\", \"Let's take a ride.\", \"Without you.\", \"And then you find out where it all went wrong.\"]",
+        "pred": "\"I am a mansion. I am the sea. You can't take that away from me. Because you tear us apart with all the things you don't like \" Let's take a ride. Without you. And then you find out where it all went wrong."
+    },
+    "v_1jgsRbGzCls": {
+        "pred_atomic": "[\"Onovia of phenomena don lejardan public says Ome sambalante il pratik.\", \"Some people could be a tolerance.\", \"Ilfamatnoscondemini Mitsun a champion de taishi suggests a popularity.\"]",
+        "pred": "Onovia of phenomena don lejardan public says Ome sambalante il pratik. Some people could be a tolerance. Ilfamatnoscondemini Mitsun a champion de taishi suggests a popularity."
+    },
+    "v_Hy54nZSDxTk": {
+        "pred_atomic": "[\"Randy exploded.\", \"You blocked me on Facebook.\", \"Matt, I'm going this way.\", \"I'm hanging this way follow you all right.\", \"You got a jam bot?\", \"Stay here.\", \"Just stay here and stay low try to shoot.\"]",
+        "pred": "Randy exploded. You blocked me on Facebook. Matt, I'm going this way. I'm hanging this way follow you all right. You got a jam bot? Stay here. Just stay here and stay low try to shoot."
+    },
+    "v_34SBoGK8mT8": {
+        "pred_atomic": "[\"Bob.\", \"No, I don't want are you going to Redo?\", \"Okay, I guess I have to go all the way around.\", \"There you go, 716.\", \"Hit yay this time.\"]",
+        "pred": "Bob. No, I don't want are you going to Redo? Okay, I guess I have to go all the way around. There you go, 716. Hit yay this time."
+    },
+    "v_Bkhr72sazvQ": {
+        "pred_atomic": "[\"Today I'm proud to say I have lost a total of five pounds.\", \n\"The great thing about it is I haven't changed anything I've done.\", \n\"I would like to weigh about 175 or 180.\", \n\"Started out thinking about 180, but now I'm going like 175 man.\"]",
+        "pred": "Today I'm proud to say I have lost a total of five pounds. The great thing about it is I haven't changed anything I've done. I would like to weigh about 175 or 180. Started out thinking about 180, but now I'm going like 175 man."
+    },
+    "v_hFpSoRlpyMo": {
+        "pred_atomic": "[\"Owen Morgan thought he'd scored four here.\", \"India appealed for the unlikeliest runout you will ever see.\", \"Bell bemused the crowd furious.\", \"England 254 for four.\", \"India withdraw their successful appeal over Bell's controversial runout.\"]",
+        "pred": "Owen Morgan thought he'd scored four here. India appealed for the unlikeliest runout you will ever see. Bell bemused the crowd furious. England 254 for four. India withdraw their successful appeal over Bell's controversial runout."
+    },
+    "v_jt-Vnap5KP4": {
+        "pred_atomic": "[\"First thing I learned when I was benefiting, basically, all they do indicates temperature.\",\n\"And it really does temperature it.\",\n\"I like that bigger one.\",\n\"See, my son used to have a big one.\",\n\"What happened to it and.\"]",
+        "pred": "First thing I learned when I was benefiting, basically, all they do indicates temperature. And it really does temperature it. I like that bigger one. See, my son used to have a big one. What happened to it and."
+    },
+    "v_nywOe9C3ajM": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_tC5eMgePakk": {
+        "pred_atomic": "[\"Nam ram SA.\", \"The ram is a type of weapon used in combat.\", \"The weapon is a weapon of war.\", \"It is used to destroy enemy forces.\", \"Here are some examples of how the ram works.\"]",
+        "pred": "Nam ram SA. The ram is a type of weapon used in combat. The weapon is a weapon of war. It is used to destroy enemy forces. Here are some examples of how the ram works."
+    },
+    "v__jV5sAOOHLk": {
+        "pred_atomic": "[\"Every Wednesday, FIU Bikes fixes bikes for free for students and employees alike.\", \"Here's how to fix a flat tire.\", \"We're also looking for volunteers to help with some of the repairs that we do.\"]",
+        "pred": "Every Wednesday, FIU Bikes fixes bikes for free for students and employees alike. Here's how to fix a flat tire. We're also looking for volunteers to help with some of the repairs that we do."
+    },
+    "v_Mf3IyeMF8ug": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\"]",
+        "pred": "Sam. Sam."
+    },
+    "v_zXHyFBrj5Ag": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_kl-2y3jtPNE": {
+        "pred_atomic": "[\"This is a match between red and blue house.\", \"Blue teams are batting and red is fielding.\", \"Who's winning right now?\", \"We don't know yet.\"]",
+        "pred": "This is a match between red and blue house. Blue teams are batting and red is fielding. Who's winning right now? We don't know yet."
+    },
+    "v_-vnSFKJNB94": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_-MbZ-W0AbN0": {
+        "pred_atomic": "[\"Sham.\", \"Sam.\"]",
+        "pred": "Sham. Sam."
+    },
+    "v_ojIhxWrBM0s": {
+        "pred_atomic": "[\"Four jam.\", \"Don't.\"]",
+        "pred": "Four jam. Don't."
+    },
+    "v_aDe5hUB3AdY": {
+        "pred_atomic": "[\"One.\", \"Come on.\", \"You have to go between the red and green.\", \"Mark, you can't go out any other way.\", \"Make a good shot for YouTube.\", \"Get it over.\"]",
+        "pred": "One. Come on. You have to go between the red and green. Mark, you can't go out any other way. Make a good shot for YouTube. Get it over."
+    },
+    "v_qmHjHk0Hzz8": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_B3xMfP_UOt4": {
+        "pred_atomic": "[\"Vomitre.\", \"Sorakodin sentiment record Sataki vin pit korea taksamayaki the Mossaroktri.\", \"Okte.\"]",
+        "pred": "Vomitre. Sorakodin sentiment record Sataki vin pit korea taksamayaki the Mossaroktri. Okte."
+    },
+    "v_9UvVeUYQLgA": {
+        "pred_atomic": "[\"Sam.\", \"Valor is up been going on but my best tortured me at night.\", \"That's why I write these simple lines from getting too far gone.\", \"All they can take is I catch it on.\", \"Let the lesson pass your time.\"]",
+        "pred": "Sam. Valor is up been going on but my best tortured me at night. That's why I write these simple lines from getting too far gone. All they can take is I catch it on. Let the lesson pass your time."
+    },
+    "v_d-RYiiPzVKg": {
+        "pred_atomic": "[\"How to make some homemade furniture polish.\", \"Use white distilled vinegar and olive oil.\", \"An option for those of you that do not have any furniture polish on hand or you want to use a safer alternative.\"]",
+        "pred": "How to make some homemade furniture polish. Use white distilled vinegar and olive oil. An option for those of you that do not have any furniture polish on hand or you want to use a safer alternative."
+    },
+    "v_HxrtuZSCwvY": {
+        "pred_atomic": "[\"From the Bach portida.\", \"Number three in E major for solo violin.\", \"Sam sam sam ram sam dam.\"]",
+        "pred": "From the Bach portida. Number three in E major for solo violin. Sam sam sam ram sam dam."
+    },
+    "v_rpjxjU-mLiw": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_cEa87QoI3Do": {
+        "pred_atomic": "[\"It's been such a long day.\", \"Don't really have time to cook.\", \"Do you think you'll please make me a sandwich?\", \"It's Sam.\", \"Wait.\", \"Which way you can make this?\"]",
+        "pred": "It's been such a long day. Don't really have time to cook. Do you think you'll please make me a sandwich? It's Sam. Wait. Which way you can make this?"
+    },
+    "v_YAKXrBinGD4": {
+        "pred_atomic": "[\"Kayaking on Lake Powell is one of the greatest places to go kayaking.\", \"With more than 1900 miles of shoreline, you can paddle to your heart's content.\", \"Steve Ward with the Lake Powell marina says there is something special about kayaking Lake Powell.\"]",
+        "pred": "Kayaking on Lake Powell is one of the greatest places to go kayaking. With more than 1900 miles of shoreline, you can paddle to your heart's content. Steve Ward with the Lake Powell marina says there is something special about kayaking lake Powell."
+    },
+    "v_oncTwYfvCD8": {
+        "pred_atomic": "[\"Your base behind front Facebook jump.\", \"Ready signal.\"]",
+        "pred": "Your base behind front Facebook jump. Ready signal."
+    },
+    "v_zTHkqpNFGno": {
+        "pred_atomic": "[\"Oh, man.\", \"That was creepy.\", \"Do you guys believe me right now?\", \"There was back there.\", \"That's the girl in the village.\", \"Let her go.\"]",
+        "pred": "Oh, man. That was creepy. Do you guys believe me right now? There was back there. That's the girl in the village. Let her go."
+    },
+    "v_W4mJsJGa0CY": {
+        "pred_atomic": "[\"You can never keep it down.\", \"You can take me.\", \"I mean, don't let ram me.\"]",
+        "pred": "You can never keep it down. You can take me. I mean, don't let ram me."
+    },
+    "v_GOF5guH_kuI": {
+        "pred_atomic": "[\"It's susie Aliyan.\", \"Yeah, ali.\"]",
+        "pred": "It's susie Aliyan. Yeah, ali."
+    },
+    "v_TMAXjnsN0Mk": {
+        "pred_atomic": "[\"Love and.\"]",
+        "pred": "Love and."
+    },
+    "v_wCexKIuAj3A": {
+        "pred_atomic": "[\"Vaporized nicotine, but no tar, so there's no carcinogenic lung cancer producing chemicals.\", \"If people want to go to the pub and still indulge in smoking, they can safely using electronic cigarettes.\", \"Why aren't there bars like this all over the country to try and stop smokers from smoking?\"]",
+        "pred": "Vaporized nicotine, but no tar, so there's no carcinogenic lung cancer producing chemicals. If people want to go to the pub and still indulge in smoking, they can safely using electronic cigarettes. Why aren't there bars like this all over the country to try and stop smokers from smoking?"
+    },
+    "v_afMQA352X_A": {
+        "pred_atomic": "[\"You.\", \"Kick underneath it.\", \"Richard is one of my personal training clients.\", \"He is 64 years old.\", \"And we are doing we're doing kickboxing.\"]",
+        "pred": "You. Kick underneath it. Richard is one of my personal training clients. He is 64 years old. And we are doing we're doing kickboxing."
+    },
+    "v_-D1gdv_gQyw": {
+        "pred_atomic": "[\"I'm about to light a Fire bear, grill style.\", \"Will it catch?\", \"It on fire.\", \"Look at there.\", \"We have fire.\"]",
+        "pred": "I'm about to light a Fire bear, grill style. Will it catch? It on fire. Look at there. We have fire."
+    },
+    "v_dVpHF8tE2qo": {
+        "pred_atomic": "[\"I'll stop beach.\"]",
+        "pred": "I'll stop beach."
+    },
+    "v_Il9Ara3IqeY": {
+        "pred_atomic": "Sure! Here is the list of atomic sentences that can be loaded with json.loads:\n\n[\"What?\"]",
+        "pred": "What?"
+    },
+    "v_W6fPv5eoXC4": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_R_JKmGmURvA": {
+        "pred_atomic": "[\"The aviation cocktail was invented by Hugo Ensulin at the Hotel Wallach in New York City about 100 years ago.\", \"Do be sure to get these authentic period glasses that serve three ounce servings.\"]",
+        "pred": "The aviation cocktail was invented by Hugo Ensulin at the Hotel Wallach in New York City about 100 years ago. Do be sure to get these authentic period glasses that serve three ounce servings."
+    },
+    "v_mNiFmkm5OZA": {
+        "pred_atomic": "[\"One thing people like to do if they have a beer, they like to fill it up with smoke.\", \"Next thing you can try to do is chug your beer with it.\", \"You should try them at home before you bust them out at the hookah bar.\"]",
+        "pred": "One thing people like to do if they have a beer, they like to fill it up with smoke. Next thing you can try to do is chug your beer with it. You should try them at home before you bust them out at the hookah bar."
+    },
+    "v_UZm05CvtxkA": {
+        "pred_atomic": "[\"Oh, again.\", \"Hammer time.\", \"Boy block draft.\", \"Oh, jam.\"]",
+        "pred": "Oh, again. Hammer time. Boy block draft. Oh, jam."
+    },
+    "v_skr8x0kUVwg": {
+        "pred_atomic": "[\"You 857575.\", \"Kill Bob.\", \"Kill 8575-7575-7857-5757-57.\", \"I spend a nice summer day like any other day.\", \"This is the right time to cruise in my whip 5 mph.\", \"Lay back low in the sea.\", \"Reach it relaxing.\"]",
+        "pred": "You 857575. Kill Bob. Kill 8575-7575-7857-5757-57. I spend a nice summer day like any other day. This is the right time to cruise in my whip 5 mph. Lay back low in the sea. Reach it relaxing."
+    },
+    "v_OESjoURo19U": {
+        "pred_atomic": "[\"Mike's cousin girlfriend.\", \"No.\", \"No clouds in my stone we don't weather and keep that shall be shall love you forever.\", \"It's up, it's up.\", \"Now it altogether all together which is kind her.\"]",
+        "pred": "Mike's cousin girlfriend. No. No clouds in my stone we don't weather and keep that shall be shall love you forever. It's up, it's up. Now it altogether all together which is kind her."
+    },
+    "v_fh21bbDSVmA": {
+        "pred_atomic": "[\"Back.\", \"What be it like Britannia but who it is uncover no letter zeals christian.\", \"But church not rules it on the second mariam pramtani of the valuable monies like sodium no yadnis Rishni class robot.\"]",
+        "pred": "Back. What be it like Britannia but who it is uncover no letter zeals christian. But church not rules it on the second mariam pramtani of the valuable monies like sodium no yadnis Rishni class robot."
+    },
+    "v_ijrjRNwZjqQ": {
+        "pred_atomic": "[\"Out, guys.\", \"One more time.\", \"Finally win this one.\", \"Oh, my God.\", \"It's Federer.\", \"Not even like this.\", \"We're going to play all night.\", \"Good night, everyone.\"]",
+        "pred": "Out, guys. One more time. Finally win this one. Oh, my God. It's Federer. Not even like this. We're going to play all night. Good night, everyone."
+    },
+    "v_8L1UjGLOCeI": {
+        "pred_atomic": "[\"You can still get through on the old number for now as well.\", \"The one you've called on now, you might have used the old numbers to get through this.\", \"And ready, set yes.\"]",
+        "pred": "You can still get through on the old number for now as well. The one you've called on now, you might have used the old numbers to get through this. And ready, set yes."
+    },
+    "v_z6pmp8TrAVo": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_CTJej0rZMiI": {
+        "pred_atomic": "[\"Ronnie from Launda Cristiana will be playing traditional corritos estilo norteno and Honer Coronados tuned in the key of F.\", \"And we do it for the kingdom of God and for his honor and his glory.\", \"Amen.\"]",
+        "pred": "Ronnie from Launda Cristiana will be playing traditional corritos estilo norteno and Honer Coronados tuned in the key of F. And we do it for the kingdom of God and for his honor and his glory. Amen."
+    },
+    "v_DIhyfNJAm-M": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\", \"Sam.\", \"Ram.\", \"Sam.\", \"Sam.\", \"Sam,\", \"sam.\"]",
+        "pred": "Sam. Sam. Sam. Ram. Sam. Sam. Sam, sam."
+    },
+    "v_TZOhIMjwEE8": {
+        "pred_atomic": "[\"We got to work with King on her mower technique.\", \"She's getting grass all over the sidewalk.\", \"Let's hope she picked up all the dog food first.\", \"It's her first time.\", \"We got to cut her some slack.\"]",
+        "pred": "We got to work with King on her mower technique. She's getting grass all over the sidewalk. Let's hope she picked up all the dog food first. It's her first time. We got to cut her some slack."
+    },
+    "v_oni9K1_MCuw": {
+        "pred_atomic": "[\"WAM.\", \"Ram SA.\", \"Ram SA.\"]",
+        "pred": "WAM. Ram SA. Ram SA."
+    },
+    "v_3V9tzjyr51I": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_52Xw6TZcysc": {
+        "pred_atomic": "[\"Was it there?\"]",
+        "pred": "Was it there?"
+    },
+    "v_z-EPAHsmTMA": {
+        "pred_atomic": "[\"Appear.\", \"That how many times can you watch it?\", \"Oh, no.\", \"Yeah, you shouldn't do it this way because your phone is like, what am I doing?\", \"Like that?\", \"Yeah, this way.\"]",
+        "pred": "Appear. That how many times can you watch it? Oh, no. Yeah, you shouldn't do it this way because your phone is like, what am I doing? Like that? Yeah, this way."
+    },
+    "v_mMm1LfVb8Pg": {
+        "pred_atomic": "[\"It.\"]",
+        "pred": "It."
+    },
+    "v_3zpODTqnYLs": {
+        "pred_atomic": "[\"Hello.\", \"Soap, what you doing?\", \"Just wash your face.\", \"Washington.\", \"She's got to be rich.\", \"All right.\"]",
+        "pred": "Hello. Soap, what you doing? Just wash your face. Washington. She's got to be rich. All right."
+    },
+    "v_ZxPF3s_OLDo": {
+        "pred_atomic": "[\"Sam.\", \"Nam sam.\", \"Sam.\"]",
+        "pred": "Sam. Nam sam. Sam."
+    },
+    "v_9VtxNvLx6zA": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_sPK-sbHIb3w": {
+        "pred_atomic": "[\"Variant of punf is on the antwad dusta fatidika zepstin spin move order in a hilfikom to zepstan of fatidikwit.\", \"Natim spin move toyshong unto baby hook yenadim baji positziomanhat submitte spin fake options.\"]",
+        "pred": "Variant of punf is on the antwad dusta fatidika zepstin spin move order in a hilfikom to zepstan of fatidikwit. Natim spin move toyshong unto baby hook yenadim baji positziomanhat submitte spin fake options."
+    },
+    "v_lPw_BRbPw5s": {
+        "pred_atomic": "[\"The manica you get a second to manica but it's a second of you.\", \"But yeah but yeah to be so wonderful you get on you so much.\", \"But I must even watch your wonder somebody Delimos Andremont charlie RONIA jogging grania santana.\"]",
+        "pred": "The manica you get a second to manica but it's a second of you. But yeah but yeah to be so wonderful you get on you so much. But I must even watch your wonder somebody Delimos Andremont charlie RONIA jogging grania santana."
+    },
+    "v_4iFlM_Zu7xs": {
+        "pred_atomic": "[\"You when we were younger future was so bright\", \"the old neighborhood was so alive\", \"Now the kids are grown up but the lives are war in one little street\", \"What the hell is going on\", \"Cruel dream reality nothing free longing for you to breathe\"]",
+        "pred": "You when we were younger future was so bright, the old neighborhood was so alive. Now the kids are grown up but the lives are war in one little street. What the hell is going on? Cruel dream reality nothing free longing for you to breathe."
+    },
+    "v_mLFjww64sX8": {
+        "pred_atomic": "[\"This man actually is sleeping while he's getting haircut.\", \"He sleep seven the yellow.\", \"It's a real barber.\", \"There's no backup.\"]",
+        "pred": "This man actually is sleeping while he's getting haircut. He sleep seven the yellow. It's a real barber. There's no backup."
+    },
+    "v_j_1kNiGcepU": {
+        "pred_atomic": "[\"Zoma is the G's favorite noise.\", \"My Zoom.\", \"My Zuma.\", \"My zoma numi.\"]",
+        "pred": "Zoma is the G's favorite noise. My Zoom. My Zuma. My zoma numi."
+    },
+    "v_NvRH4SoF09c": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_Hz7-mBFGsSs": {
+        "pred_atomic": "[\"You want one?\", \"You want?\", \"Do you know want to go?\", \"Even a lollies ain't working today.\", \"Then Daddy will bring you to the park.\", \"We're going to go to McDonald's, right?\", \"McDonald's.\", \"Can I go with you?\", \"No.\"]",
+        "pred": "You want one? You want? Do you know want to go? Even a lollies ain't working today. Then Daddy will bring you to the park. We're going to go to McDonald's, right? McDonald's. Can I go with you? No."
+    },
+    "v_Jy93pLzV2uw": {
+        "pred_atomic": "[\"Dance, dance, dance I hit the flow because that's my plans planes, planes playing land nice.\",\n \"Say an AO baby, let go.\",\n \"We gonna go all night.\",\n \"We go light it.\",\n \"I want to celebrate and live my life.\"]",
+        "pred": "Dance, dance, dance I hit the flow because that's my plans planes, planes playing land nice. Say an AO baby, let go. We gonna go all night. We go light it. I want to celebrate and live my life."
+    },
+    "v_kGdxtU3NwWo": {
+        "pred_atomic": "[\"Okay, steph.\"]",
+        "pred": "Okay, steph."
+    },
+    "v_JDwd6Ec454A": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_889_kqLFM0E": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\", \"Nam Sam.\"]",
+        "pred": "Sam. Sam. Nam Sam."
+    },
+    "v_86Unahb4sJM": {
+        "pred_atomic": "[\"Step by step how to put on makeup.\", \"This is my first time putting on full makeup.\", \"I find that that's the easiest way to go about this.\", \"Step seven is to put darken the brows.\", \"Please like and subscribe.\"]",
+        "pred": "Step by step how to put on makeup. This is my first time putting on full makeup. I find that that's the easiest way to go about this. Step seven is to put darken the brows. Please like and subscribe."
+    },
+    "v_-pkfcMUIEMo": {
+        "pred_atomic": "[\"Dr. Craig Rubenstein shows you how to shovel.\", \"Bend the knees, lift, do not twist, but turn and dump the snow.\", \"The tireder you are, the more likely you are to be sloppy and make mistakes.\"]",
+        "pred": "Dr. Craig Rubenstein shows you how to shovel. Bend the knees, lift, do not twist, but turn and dump the snow. The tireder you are, the more likely you are to be sloppy and make mistakes."
+    },
+    "v_u7THn6D6y5w": {
+        "pred_atomic": "[\"Thank you.\", \"Hello.\"]",
+        "pred": "Thank you. Hello."
+    },
+    "v_QG2xYcN_bl0": {
+        "pred_atomic": "[\"On.\", \"10 seconds to beat.\", \"You did.\"]",
+        "pred": "On. 10 seconds to beat. You did."
+    },
+    "v_K_ia4VP3w2c": {
+        "pred_atomic": "[\"Using Avon's True Color Eyeshadow, quad and metal eyes to give Irina a smoky eye with a little bit of bronze.\", \"Now it's time to bump it up a notch with Ultra Color Bold Lipstick in Fearless Fuchsia.\"]",
+        "pred": "Using Avon's True Color Eyeshadow, quad and metal eyes to give Irina a smoky eye with a little bit of bronze. Now it's time to bump it up a notch with Ultra Color Bold Lipstick in Fearless Fuchsia."
+    },
+    "v_TkhUtx0Eyfw": {
+        "pred_atomic": "[\"Are you scared?\", \"Don't be scared.\", \"She's cleaning it for right through your nose.\", \"Hold still.\", \"Close your eyes real quick.\", \"Take a deep breath.\", \"Here it comes.\", \"It's done.\"]",
+        "pred": "Are you scared? Don't be scared. She's cleaning it for right through your nose. Hold still. Close your eyes real quick. Take a deep breath. Here it comes. It's done."
+    },
+    "v_r6l4mxphtX0": {
+        "pred_atomic": "[\"It.\"]",
+        "pred": "It."
+    },
+    "v_WAvz9zHwWo4": {
+        "pred_atomic": "[\"It.\", \"Oh, yeah.\", \"Joby.\"]",
+        "pred": "It. Oh, yeah. Joby."
+    },
+    "v_yggwFa68Cp4": {
+        "pred_atomic": "[\"That's a good gym.\", \"Sam.\", \"Sam.\", \"Sam.\", \"Sam.\"]",
+        "pred": "That's a good gym. Sam. Sam. Sam. Sam."
+    },
+    "v_96ADEnJy4GU": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_A20uQSBtYMs": {
+        "pred_atomic": "[\"Eddie Bacchus is one of the top jazz saxophones in the world.\", \"He has his own stuff out right now.\", \"So we're gonna get a little lesson in improvisation.\"]",
+        "pred": "Eddie Bacchus is one of the top jazz saxophones in the world. He has his own stuff out right now. So we're gonna get a little lesson in improvisation."
+    },
+    "v_oD8sGLt2FR0": {
+        "pred_atomic": "[\"Right.\", \"This is for $50.\", \"It's seven degrees outside and he's shirtless.\", \"What a man.\", \"He's not even hairy.\"]",
+        "pred": "Right. This is for $50. It's seven degrees outside and he's shirtless. What a man. He's not even hairy."
+    },
+    "v_9InwA-ajB2M": {
+        "pred_atomic": "[\"So what you want to do then take a hold of that right rain again and then pull that rain.\", \"Make him give ask for a little bit more.\", \"If you didn't use all of his body to make the turn on him, he's going to slow down.\"]",
+        "pred": "So what you want to do then take a hold of that right rain again and then pull that rain. Make him give ask for a little bit more. If you didn't use all of his body to make the turn on him, he's going to slow down."
+    },
+    "v_wiaZCl-poRw": {
+        "pred_atomic": "[\"Um and I don't like.\"]",
+        "pred": "Um and I don't like."
+    },
+    "v_-uJnucdW6DY": {
+        "pred_atomic": "[\"We need to make sure we're taking full swings.\", \"Hit him, hit him.\", \"When you put it in my behind can't we just try it again alone?\", \"What's the point of the last kiss?\"]",
+        "pred": "\"We need to make sure we're taking full swings. Hit him, hit him. When you put it in my behind can't we just try it again alone? \" \"What's the point of the last kiss? \""
+    },
+    "v_jCxQQ9DMpT0": {
+        "pred_atomic": "[\"With the design of most bows, people think they should put their entire hand and fingers on the bow grip.\", \"With the proper grip, you'll see that all your arrows are very parallel.\", \"It'll probably feel a little bit weird at first, but that's okay.\", \"It doesn't take long to get the hang of it.\"]",
+        "pred": "With the design of most bows, people think they should put their entire hand and fingers on the bow grip. With the proper grip, you'll see that all your arrows are very parallel. It'll probably feel a little bit weird at first, but that's okay. It doesn't take long to get the hang of it."
+    },
+    "v_tt-uDaZQWWc": {
+        "pred_atomic": "[\"It.\", \"Yeah, shave that.\", \"Legend it.\", \"Oh, you.\", \"Sorry.\", \"I look videotaping this.\"]",
+        "pred": "It. Yeah, shave that. Legend it. Oh, you. Sorry. I look videotaping this."
+    },
+    "v_IN23CO8Kotk": {
+        "pred_atomic": "[\"WAM ram.\"]",
+        "pred": "WAM ram."
+    },
+    "v_T35cHr4pjkc": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_0DFz3sgfda0": {
+        "pred_atomic": "[\"Today we are preparing a typical Catalan recipe.\", \"The ingredients are tuna, sparrows, tomatoes, corn, carrots.\", \"There's a salad with oil, ansal and bean.\", \"This is delicious.\", \"MMM.\"]",
+        "pred": "Today we are preparing a typical Catalan recipe. The ingredients are tuna, sparrows, tomatoes, corn, carrots. There's a salad with oil, ansal and bean. This is delicious. MMM."
+    },
+    "v_9eniCub7u60": {
+        "pred_atomic": "[\"You wanna get what I can.\", \"What I'm gonna get.\"]",
+        "pred": "You wanna get what I can. What I'm gonna get."
+    },
+    "v_ZVjLscGMOs8": {
+        "pred_atomic": "[\"Instead of the mumbo chacha, what I was saying before is pivot turn chacha.\", \"Pendulum go up, double knee, march around.\", \"It's just a matter of changing the order and we can cross phrase it.\"]",
+        "pred": "Instead of the mumbo chacha, what I was saying before is pivot turn chacha. Pendulum go up, double knee, march around. It's just a matter of changing the order and we can cross phrase it."
+    },
+    "v_Lf_7RurLgp0": {
+        "pred_atomic": "[\"One hygiene habit that you definitely want to instill in your children at a young age is proper hand washing.\", \"There are some products out there that will help children to become more interested in hand washing process itself.\", \"Another product that is very important and helpful to keep around is some sort of a hand sanitizer.\"]",
+        "pred": "One hygiene habit that you definitely want to still in your children at a young age is proper hand washing. There are some products out there that will help children to become more interested in hand washing process itself. Another product that is very important and helpful to keep around is some sort of a hand sanitizer."
+    },
+    "v_H33jSILKmfI": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_jiM0HUFn0e8": {
+        "pred_atomic": "[\"You Nana nasty.\", \"Nana Nancy.\", \"Silky shell down to see in the air.\", \"She'll suck you hood highlights while that twink like butterflies.\", \"I want her to be my best friend.\", \"She's everything I like.\"]",
+        "pred": "You Nana nasty. Nana Nancy. Silky shell down to see in the air. She'll suck you hood highlights while that twink like butterflies. I want her to be my best friend. She's everything I like."
+    },
+    "v_AwgGYaV1lT0": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_TGIQtaINzCY": {
+        "pred_atomic": "[\"Sports club stationary cycles were recently retrofitted with so called Green Revolution technology.\", \"The technology allows riders to generate power with every turn of the pedals.\", \"Each person has the potential to generate about 100 watt hours during their hour cycling class.\", \"The company is testing ways to apply the technology to other kinds of cardio fitness devices.\"]",
+        "pred": "Sports club stationary cycles were recently retrofitted with so called Green Revolution technology. The technology allows riders to generate power with every turn of the pedals. Each person has the potential to generate about 100 watt hours during their hour cycling class. The company is testing ways to apply the technology to other kinds of cardio fitness devices."
+    },
+    "v_aOxRwTlkY80": {
+        "pred_atomic": "[\"This is one of the quick and easiest meals that I ever do.\", \"It takes no energy or effort at all.\", \"For the full recipe and ingredient list, check the link in the description box below.\", \"Check out all my other great pasta recipes on my pasta playlist.\"]",
+        "pred": "This is one of the quick and easiest meals that I ever do. It takes no energy or effort at all. For the full recipe and ingredient list, check the link in the description box below. Check out all my other great pasta recipes on my pasta playlist."
+    },
+    "v_TNqc2yWZztE": {
+        "pred_atomic": "[\"Sam SA.\"]",
+        "pred": "Sam SA."
+    },
+    "v_z3MP0yJBtGg": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_vAHR3iJhBXU": {
+        "pred_atomic": "[\"Today we'll be trying out this beautiful giraffe nail design inspired by Fresh Meadows Nails.\", \"This design is very easy and perfect for both long and short nails.\", \"If you like this design, don't forget to rate the video and subscribe to the channel for more.\"]",
+        "pred": "Today we'll be trying out this beautiful giraffe nail design inspired by Fresh Meadows Nails. This design is very easy and perfect for both long and short nails. If you like this design, don't forget to rate the video and subscribe to the channel for more."
+    },
+    "v_MWQ9mb_mB8U": {
+        "pred_atomic": "[\"Kenya beat Mozambique 20 512, 25 nine and 20 519 to make it two wins out of two.\",\n \"Seven time African champions make several mistakes in the third set.\",\n \"The Games will take a break tomorrow before resuming on Wednesday when Kenya will face Senegal.\"]",
+        "pred": "Kenya beat Mozambique 20 512, 25 nine and 20 519 to make it two wins out of two. Seven time African champions make several mistakes in the third set. The Games will take a break tomorrow before resuming on Wednesday when Kenya will face Senegal."
+    },
+    "v_hvrKRg166eQ": {
+        "pred_atomic": "[\"Several cheerleaders have tried to tell us they are competing in some sort of a sport.\", \"Personally, I think anybody could run around and dance for two and a half minutes.\", \"We all respect you as cheerleaders, but as athletes, no way.\"]",
+        "pred": "Several cheerleaders have tried to tell us they are competing in some sort of a sport. Personally, I think anybody could run around and dance for two and a half minutes. We all respect you as cheerleaders, but as athletes, no way."
+    },
+    "v_sbnF7VVeopM": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_ghxiG0Dnrt0": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_Jdu5AqaWfz8": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_vska7f8Zm9s": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_1xBdquA6dx8": {
+        "pred_atomic": "[\"Wow.\", \"Let's go, Maddie.\"]",
+        "pred": "Wow. Let's go, Maddie."
+    },
+    "v_fNhw7xE3NM8": {
+        "pred_atomic": "[\"This is for Bethany.\", \"I have curlers in my hair.\", \"I know you've always wanted to see this day so joy in your victory.\", \"Okay, that's it.\", \"It's Molly.\"]",
+        "pred": "This is for Bethany. I have curlers in my hair. I know you've always wanted to see this day so joy in your victory. Okay, that's it. It's Molly."
+    },
+    "v_11p9goB2rm8": {
+        "pred_atomic": "[\"Go ahead, Deus.\", \"Oh, baby, it here comes JD.\"]",
+        "pred": "Go ahead, Deus. Oh, baby, it here comes JD."
+    },
+    "v_PSB1nM3QXxg": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_Ivq9_wPFNs4": {
+        "pred_atomic": "[\"Brittany Reese jumps 723, a new championship record.\", \"This is her final jump.\", \"Can she get her title for the second time?\"]",
+        "pred": "Brittany Reese jumps 723, a new championship record. This is her final jump. Can she get her title for the second time?"
+    },
+    "v_BnO8AfQS8yE": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_JguRZtFN-Ck": {
+        "pred_atomic": "[\"There.\"]",
+        "pred": "There."
+    },
+    "v_4XnXyKYxnQQ": {
+        "pred_atomic": "[\"Far away.\"]",
+        "pred": "Far away."
+    },
+    "v_9pavfCL1HvU": {
+        "pred_atomic": "[\"I do get it job, Veronica.\", \"Good job.\", \"Go down.\", \"Heidi.\", \"Nice play.\", \"Good.\", \"Yeah.\", \"It.\", \"Oh one.\"]",
+        "pred": "I do get it job, Veronica. Good job. Go down. Heidi. Nice play. Good. Yeah. It. Oh one."
+    },
+    "v_Zhx6BYVb64g": {
+        "pred_atomic": "[\"Ram sam SA sam poke.\"]",
+        "pred": "Ram sam SA sam poke."
+    },
+    "v_7dXqXFoju2M": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_tXUssW4vT3o": {
+        "pred_atomic": "[\"Give us like I mean yeah but I give one\", \"I giveone I give away I need\", \"I get why I went\", \"I did I slap at me\", \"I cannot let yaw sight out\", \"I wanna show when I want to show me no more\"]",
+        "pred": "Give us like I mean yeah but I give one, I giveone I give away I need. I get why I went, I did I slap at me. I cannot let yaw sight out. I wanna show when I want to show me no more."
+    },
+    "v_EnMS9O1U6E0": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_lIo8HfzzSNs": {
+        "pred_atomic": "[\"Russian salad is nothing, but you have potatoes and mayonnaise.\",\n \"To that, you can add other ingredients like carrot, beans, peas, and many other ingredients.\",\n \"Usually whenever we make salads, the presentation is very important.\",\n \"Please post your recipes and cooking tips@variva.com.\"]",
+        "pred": "Russian salad is nothing, but you have potatoes and mayonnaise. To that, you can add other ingredients like carrot, beans, peas, and many other ingredients. Usually whenever we make salads, the presentation is very important. Please post your recipes and cooking tips@variva. com."
+    },
+    "v_B0GCHDqEsRU": {
+        "pred_atomic": "[\"The way my dog and the yeah, more.\", \"Yeah, but down.\", \"It's all down.\", \"And it's all about that's what is?\"]",
+        "pred": "The way my dog and the yeah, more. Yeah, but down. It's all down. And it's all about that's what is?"
+    },
+    "v_ANaMmXJFE54": {
+        "pred_atomic": "[\"Sandra Al.\"]",
+        "pred": "Sandra Al."
+    },
+    "v_lSVj34-DR0o": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_q_QR5HoROhI": {
+        "pred_atomic": "[\"John Hauk is a guest artist at the Nail Superstore.\", \"He will show you how to make a mosaic nail using artist and gel FX along with some glitter.\", \"After curing for two minutes, he will finish off the nail with cuticle oil.\"]",
+        "pred": "John Hauk is a guest artist at the Nail Superstore. He will show you how to make a mosaic nail using artist and gel FX along with some glitter. After curing for two minutes, he will finish off the nail with cuticle oil."
+    },
+    "v_JG7T6qtO4jg": {
+        "pred_atomic": "[\"The zulu spin can be done from both top rock or from your 6th step on the ground move.\", \"Zulu spins can also be a transition out of power moves such as the monkey jump.\"]",
+        "pred": "The zulu spin can be done from both top rock or from your 6th step on the ground move. Zulu spins can also be a transition out of power moves such as the monkey jump."
+    },
+    "v_k1QAWLupB-I": {
+        "pred_atomic": "[\"Shay.\", \"All the way to your right.\", \"Straight ahead with a big Shay.\", \"Can we have straight ahead, straight ahead.\", \"Right right here?\", \"Perfect.\", \"One more over here.\", \"Thank you.\"]",
+        "pred": "Shay. All the way to your right. Straight ahead with a big Shay. Can we have straight ahead, straight ahead. Right right here? Perfect. One more over here. Thank you."
+    },
+    "v_zDdD_qA86rg": {
+        "pred_atomic": "[\"Boom break I won't show everybody and do no more kisses.\", \"What a battle.\"]",
+        "pred": "Boom break I won't show everybody and do no more kisses. What a battle."
+    },
+    "v_zB8knKX0W8Q": {
+        "pred_atomic": "[\"After Katrina, a lot of the New Orleans inventory of antique furniture was destroyed.\", \"Today's furniture just does not have the quality that antique furniture does.\", \"Being able to do design preservation and antique restoration is very rewarding.\"]",
+        "pred": "After Katrina, a lot of the New Orleans inventory of antique furniture was destroyed. Today's furniture just does not have the quality that antique furniture does. Being able to do design preservation and antique restoration is very rewarding."
+    },
+    "v_-nl4G-00PtA": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_JHKAcpYlxkQ": {
+        "pred_atomic": "[\"Took over.\", \"And she did the same thing straight up and down.\", \"Welcome.\"]",
+        "pred": "Took over. And she did the same thing straight up and down. Welcome."
+    },
+    "v_1YU4MSK80cQ": {
+        "pred_atomic": "[\"Die on it.\", \"Go.\", \"Hey, love mama.\", \"I could transform you.\", \"No, I can't dance.\", \"But.\", \"Die.\"]",
+        "pred": "Die on it. Go. Hey, love mama. I could transform you. No, I can't dance. But. Die."
+    },
+    "v_JN1wuOpCZvk": {
+        "pred_atomic": "[\"In Australia, our vision of a mel ballet dancer is quite strong.\", \"It's an aesthetic art form.\", \"You need to be able to make beautiful lines.\", \"The most captivating dancers to watch, male or female, you can just tell that they love every minute of it.\", \"We are athletes, yet we are artists.\"]",
+        "pred": "In Australia, our vision of a mel ballet dancer is quite strong. It's an aesthetic art form. You need to be able to make beautiful lines. The most captivating dancers to watch, male or female, you can just tell that they love every minute of it. We are athletes, yet we are artists."
+    },
+    "v_0X0u_3xUBPE": {
+        "pred_atomic": "[\"Sam sam sam sam sam sam sam SA.\"]",
+        "pred": "Sam sam sam sam sam sam sam SA."
+    },
+    "v_QT4d1nTQYSE": {
+        "pred_atomic": "[\"But guys, sam SA you.\", \"The colors are working nicely.\", \"And I like these expressions of fluidity.\", \"I may want to put some more gold or some more bronze color to play with it.\", \"Share up to the agenda.\"]",
+        "pred": "But guys, sam SA you. The colors are working nicely. And I like these expressions of fluidity. I may want to put some more gold or some more bronze color to play with it. Share up to the agenda."
+    },
+    "v_ij9czNGMR5I": {
+        "pred_atomic": "[\"Piercing out it.\"]",
+        "pred": "Piercing out it."
+    },
+    "v_zoWqv-sIdBY": {
+        "pred_atomic": "[\"It's getting all straight, dude.\", \"Why brush?\", \"It been doing this for five minutes.\", \"So many tangles.\", \"You have straight hair now, Ivan.\", \"Straighter now, though.\"]",
+        "pred": "It's getting all straight, dude. Why brush? It been doing this for five minutes. So many tangles. You have straight hair now, Ivan. Straighter now, though."
+    },
+    "v_A904-cbaYDw": {
+        "pred_atomic": "[\"The next form is called slant flying.\", \"From the single whip, I'm going to open, pivot and shift and up.\", \"This is a modified horse dance and you're going to lean.\", \"If this movement is a little bit difficult, we can always break it down.\"]",
+        "pred": "The next form is called slant flying. From the single whip, I'm going to open, pivot and shift and up. This is a modified horse dance and you're going to lean. If this movement is a little bit difficult, we can always break it down."
+    },
+    "v_1d_U_2HIPmY": {
+        "pred_atomic": "[\"A left handed demonstration.\", \"Hold it with your right hand.\", \"Then your left hand will go over the top.\", \"You're going to start behind your left foot, the opposite one.\", \"And over the shoulder.\", \"Beautiful.\"]",
+        "pred": "A left handed demonstration. Hold it with your right hand. Then your left hand will go over the top. You're going to start behind your left foot, the opposite one. And over the shoulder. Beautiful."
+    },
+    "v_9snScUyE8_4": {
+        "pred_atomic": "[\"My mom wants me to post this on YouTube because apparently I don't do my dishes.\", \"As we watch, she puts the scrubber into the cup and then scrubs it clean while making a strange noise.\", \"Now I need to do my Mr. Bean a little bit music and commentary.\"]",
+        "pred": "My mom wants me to post this on YouTube because apparently I don't do my dishes. As we watch, she puts the scrubber into the cup and then scrubs it clean while making a strange noise. Now I need to do my Mr. Bean a little bit music and commentary."
+    },
+    "v_vzUeFzhVYLg": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_BdRH3lpopLQ": {
+        "pred_atomic": "[\"And the eight from Christian Rivera.\", \"Look at they're not even playing.\", \"What just hit me in the ankle?\", \"BYU 7th point.\", \"Les callus who refs here a ton comes over to clarify.\"]",
+        "pred": "And the eight from Christian Rivera. Look at they're not even playing. What just hit me in the ankle? BYU 7th point. Les callus who refs here a ton comes over to clarify."
+    },
+    "v_IGZvj1J9tNc": {
+        "pred_atomic": "[\"A full court layup, followed by a two on one opportunity back at this basket.\", \"Dribling, shooting defense, passing footwork.\", \"Once the first group has gone down all the way, the next group will begin.\"]",
+        "pred": "A full court layup, followed by a two on one opportunity back at this basket. Dribling, shooting defense, passing footwork. Once the first group has gone down all the way, the next group will begin."
+    },
+    "v_Ntyl5alZXeM": {
+        "pred_atomic": "[\"Yeah, both of them.\", \"Is that good enough?\", \"Because you want your ear.\", \"It opens.\", \"There most of the than.\", \"If I give it up here's, it doesn't hurt at all.\", \"Let's see it when she's done anyway.\"]",
+        "pred": "Yeah, both of them. Is that good enough? Because you want your ear. It opens. There most of the than. If I give it up here's, it doesn't hurt at all. Let's see it when she's done anyway."
+    },
+    "v_nI6l7BP0odw": {
+        "pred_atomic": "[\"There's WA SA sam.\", \"Ram it.\", \"We gotta go close.\"]",
+        "pred": "There's WA SA sam. Ram it. We gotta go close."
+    },
+    "v_4-KiAur4dI8": {
+        "pred_atomic": "[\"Four Red Bull crossways in Slack, fed and Bomb and Roche.\", \"Four kilometer louis Vina, two kilometer.\", \"Also mountain bike.\", \"First kilometer it.\"]",
+        "pred": "Four Red Bull crossways in Slack, fed and Bomb and Roche. Four kilometer louis Vina, two kilometer. Also mountain bike. First kilometer it."
+    },
+    "v_-HpCLXdtcas": {
+        "pred_atomic": "Sure! Here is the list of atomic sentences that can be loaded with json.loads:\n\n```python\nimport json\n\npassage = \"Hat do?\"\n\natomic_sentences = passage.split()\n\njson_list = json.dumps(atomic_sentences)\n\nprint(json_list)\n```\n\nOutput:\n```\n[\"Hat\", \"do?\"]\n```\n\nThis list can be loaded with json.loads to retrieve the original list of atomic sentences.",
+        "pred": "Hat do?"
+    },
+    "v_Erje-PwY9hE": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\", \"Ram.\"]",
+        "pred": "Sam. Sam. Ram."
+    },
+    "v_IDIALY6Ayk8": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_SV3v-nA6hXM": {
+        "pred_atomic": "[\"Me now tell you now with me now afraid to lose control and caught up in this world.\", \"What I feel was something that feels tried to sell my soul last night you wouldn't even take a bite.\", \"Now only this seems clear I need to move and fight.\", \"Need to lose myself tonight.\"]",
+        "pred": "Me now tell you now with me now afraid to lose control and caught up in this world. What I feel was something that feels tried to sell my soul last night you wouldn't even take a bite. Now only this seems clear I need to move and fight. Need to lose myself tonight."
+    },
+    "v_hPYGgv_75SY": {
+        "pred_atomic": "[\"Such a perfect day out.\", \"Yeah, it is.\", \"Look out.\", \"Oh, my God.\"]",
+        "pred": "Such a perfect day out. Yeah, it is. Look out. Oh, my God."
+    },
+    "v_k1GP0cJOXbQ": {
+        "pred_atomic": "[\"Gold line's gonna tell me when a lot is.\", \"Take our hands out of control?\", \"Loud without a tie?\", \"We'll feel the fire in your eyes?\", \"Makes the move without telling what?\"]",
+        "pred": "Gold line's gonna tell me when a lot is. Take our hands out of control? Loud without a tie? We'll feel the fire in your eyes? Makes the move without telling what?"
+    },
+    "v_aH39BSM0-Ag": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_WCS8dzRT7Xk": {
+        "pred_atomic": "[\"First thing to remember is always turn your fabric inside out.\", \"This will protect the fabric from burns and make it easier to iron.\", \"You never want to iron the fabric directly.\", \"Using small circular motions, keeping your iron in motion.\", \"And now you have a nicely ironed synthetic skirt.\"]",
+        "pred": "First thing to remember is always turn your fabric inside out. This will protect the fabric from burns and make it easier to iron. You never want to iron the fabric directly. Using small circular motions, keeping your iron in motion. And now you have a nicely ironed synthetic skirt."
+    },
+    "v_Ie09KEAPP2I": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_9AfQ2Q-96oE": {
+        "pred_atomic": "[\"Sharua Swished in Jurgen Julim, Laos.\", \"Hinter yurk and Chult on their secret.\", \"Maluaka RenaultA.\", \"I talk to Numagans.\", \"So clavi mehango doesn't make the do it's.\"]",
+        "pred": "Sharua Swished in Jurgen Julim, Laos. Hinter yurk and Chult on their secret. Maluaka RenaultA. I talk to Numagans. So clavi mehango doesn't make the do it's."
+    },
+    "v_CvbBSwz-9XI": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_4NPVpI9zUpI": {
+        "pred_atomic": "[\"Give yourself some freedom get yourself to want to fly away.\", \"Tell me you're too bored to love me and to stay me.\", \"Close now, only now I feel myself alive like never ever.\"]",
+        "pred": "Give yourself some freedom get yourself to want to fly away. Tell me you're too bored to love me and to stay me. Close now, only now I feel myself alive like never ever."
+    },
+    "v_qqZLs6j3YII": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\", \"Sam.\", \"WAM.\"]",
+        "pred": "Sam. Sam. Sam. WAM."
+    },
+    "v_hP-xRyx88aA": {
+        "pred_atomic": "[\"Allison Stockey is battling Tori Anthony for supremacy in California, and in the nation.\", \"This is the highest outdoor pole vault in the country this year.\", \"At one point in time, she thought she had cleared over 1310, but mismeasurement it.\", \"Eventually, after they got it all figured out, they put the bar up to 14ft.\"]",
+        "pred": "Allison Stockey is battling Tori Anthony for supremacy in California, and in the nation. This is the highest outdoor pole vault in the country this year. At one point in time, she thought she had cleared over 1310, but mismeasurement it. Eventually, after they got it all figured out, they put the bar up to 14ft."
+    },
+    "v_CecqF_uHeOI": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_Y9d4iPDeigI": {
+        "pred_atomic": "[\"What we do.\", \"I never cry.\", \"Go.\", \"Yeah.\", \"I don't know.\"]",
+        "pred": "What we do. I never cry. Go. Yeah. I don't know."
+    },
+    "v_bYxVbXzQToI": {
+        "pred_atomic": "[\"I got you a little wet.\", \"Sam.\", \"Sam.\", \"Sam.\"]",
+        "pred": "I got you a little wet. Sam. Sam. Sam."
+    },
+    "v_zxr6UZKPDh4": {
+        "pred_atomic": "[\"Next place my mind supposed to go.\", \"No direction, no drive on paper, barely alive.\", \"Because there's no call.\", \"There's nothing going on at all.\", \"World might not sing along but who knows?\", \"Maybe they might if I get the melody just right.\", \"I'm just singing my fallinary life.\", \"I just wish the world would sing with me sometimes.\"]",
+        "pred": "Next place my mind supposed to go. No direction, no drive on paper, barely alive. Because there's no call. There's nothing going on at all. World might not sing along but who knows? Maybe they might if I get the melody just right. I'm just singing my fallinary life. I just wish the world would sing with me sometimes."
+    },
+    "v_vIQPDP8jW8A": {
+        "pred_atomic": "[\"If you can't just shine the night what about the tomorrow?\", \n\"I don't really want to know.\", \n\"The sipping on casket losing the laugh of life.\", \n\"Let me don't care if I got no gold when I'm just praying older.\"]",
+        "pred": "If you can't just shine the night what about the tomorrow? I don't really want to know. The sipping on casket losing the laugh of life. Let me don't care if I got no gold when I'm just praying older."
+    },
+    "v_9k19UUJtldg": {
+        "pred_atomic": "[\"It.\"]",
+        "pred": "It."
+    },
+    "v_PwTwGnAVFhQ": {
+        "pred_atomic": "[\"Thank you.\"]",
+        "pred": "Thank you."
+    },
+    "v_AL1W3HkjJ2Y": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_rGOOlcdpfLg": {
+        "pred_atomic": "[\"Baby Smiley does a makeup tutorial.\", \"The most important part of all of these is the lip liner.\", \"If you don't put it on Holistic, nobody's going to take you seriously in life.\"]",
+        "pred": "Baby Smiley does a makeup tutorial. The most important part of all of these is the lip liner. If you don't put it on Holistic, nobody's going to take you seriously in life."
+    },
+    "v_UGWOtDmIcns": {
+        "pred_atomic": "[\"Come on.\", \"Pull it.\", \"Come on.\", \"Diddy I finish it up?\", \"Come.. Audio.\", \"Finish it up.\", \"But.\", \"F*** it.\"]",
+        "pred": "Come on. Pull it. Come on. Diddy I finish it up? Come.. Audio. Finish it up. But. F*** it."
+    },
+    "v_ERYwCKVUTSQ": {
+        "pred_atomic": "[\"The third note in particular is a bit sensitive to higher frequencies.\", \"Once again, it's perfectly normal in the process of learning this instrument.\", \"You want to take a nice full breath for that one.\"]",
+        "pred": "The third note in particular is a bit sensitive to higher frequencies. Once again, it's perfectly normal in the process of learning this instrument. You want to take a nice full breath for that one."
+    },
+    "v_Db9VWkgMpbE": {
+        "pred_atomic": "[\"Um yes.\", \"Liuktrus aerobic fidal at Lichnazanya villa.\", \"Sustainance Dalki surprise mission.\", \"Nagruskina but minimal.\", \"Probably am a snitch near pasta.\", \"Gram is dealt with noga privilege.\", \"Torso.\", \"He would visit his chief.\"]",
+        "pred": "Um yes. Liuktrus aerobic fidal at Lichnazanya villa. Sustainance Dalki surprise mission. Nagruskina but minimal. Probably am a snitch near pasta. Gram is dealt with noga privilege. Torso. He would visit his chief."
+    },
+    "v_o5F7X-UBETE": {
+        "pred_atomic": "[\"Baby candle now can stop now when you give him more than I can take?\", \n\"I can't throw down when you spinning me around?\", \n\"God, this is love, baby candle now toss me now?\"]",
+        "pred": "Baby candle now can stop now when you give him more than I can take? I can't throw down when you spinning me around? God, this is love, baby candle now toss me now?"
+    },
+    "v_N5LZMH9mZVU": {
+        "pred_atomic": "[\"The night.\"]",
+        "pred": "The night."
+    },
+    "v_IhmtmKxEU40": {
+        "pred_atomic": "[\"Ram SA.\"]",
+        "pred": "Ram SA."
+    },
+    "v__a527xEzhkw": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\", \"Sam.\", \"Sam.\", \"Sam.\"]",
+        "pred": "Sam. Sam. Sam. Sam. Sam."
+    },
+    "v_YOk1cMsyk88": {
+        "pred_atomic": "[\"It ideal for God.\", \"Isaiah.\", \"It many years ago.\", \"Let me live.\"]",
+        "pred": "It ideal for God. Isaiah. It many years ago. Let me live."
+    },
+    "v_LzPppxSWYNY": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\"]",
+        "pred": "Sam. Sam."
+    },
+    "v_ks018ZYzrx4": {
+        "pred_atomic": "[\"Everybody just have a good time?\", \"And we don't make you lose your mind?\", \"We just want to see you shake that, shake that?\", \"Every day.\", \"Step up fast and be the first girl to make me throw this cash?\"]",
+        "pred": "Everybody just have a good time? And we don't make you lose your mind? We just want to see you shake that, shake that? Every day. Step up fast and be the first girl to make me throw this cash?"
+    },
+    "v_ZwK52lXCbhA": {
+        "pred_atomic": "[\"The five Venom artist name is J Rod.\", \"He loves when my cat heels and the color pops.\", \"No matter your age or if you're gay have no tag, it don't matter.\", \"If I could get some support from the people who know that I started from the bottom, I'm sorry.\"]",
+        "pred": "The five Venom artist name is J Rod. He loves when my cat heels and the color pops. No matter your age or if you're gay have no tag, it don't matter. If I could get some support from the people who know that I started from the bottom, I'm sorry."
+    },
+    "v_i5qTK0mInTc": {
+        "pred_atomic": "[\"Ma, we did not get a VCR so that you could watch dirty movies.\", \n\"Can you lend me $20?\", \n\"This is the second time this week that you've come to me for money.\", \n\"What's wrong?\", \n\"I think I'm pregnant.\"]",
+        "pred": "Ma, we did not get a VCR so that you could watch dirty movies. Can you lend me $20? This is the second time this week that you've come to me for money. What's wrong? I think I'm pregnant."
+    },
+    "v_hI11n4_r178": {
+        "pred_atomic": "[\"Mumble.\", \"Chant, jump to side.\", \"This is a how.\", \"We right from the top.\", \"Basic stomp, turn, jump side.\", \"Chacha cross.\", \"It double E.\", \"Go.\"]",
+        "pred": "Mumble. Chant, jump to side. This is a how. We right from the top. Basic stomp, turn, jump side. Chacha cross. It double E. Go."
+    },
+    "v_cFOaL4Ir4hg": {
+        "pred_atomic": "[\"Eight six five narrating your course.\", \"Amy just 53 35 euro.\", \"Listen time.\"]",
+        "pred": "Eight six five narrating your course. Amy just 53 35 euro. Listen time."
+    },
+    "v_eRco7yXc-40": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_jN2CFk0xKp8": {
+        "pred_atomic": "[\"The Coach backpack vacuum with HEPA filtration is great for use in commercial establishments.\", \"With a multitude of tools and weighing only ten pounds, this backpack can be used all day long.\"]",
+        "pred": "The Coach backpack vacuum with HEPA filtration is great for use in commercial establishments. With a multitude of tools and weighing only ten pounds, this backpack can be used all day long."
+    },
+    "v_ZY0cdXr_1MA": {
+        "pred_atomic": "[\"You lack the right feet, Achilles tendons, turnout, torso length and bust.\", \"You have the wrong body for ballet, and at 13, you are too old to be considered.\"]",
+        "pred": "You lack the right feet, Achilles tendons, turnout, torso length and bust. You have the wrong body for ballet, and at 13, you are too old to be considered."
+    },
+    "v_TsHek6oZYXU": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_l_pp-1qu9Ig": {
+        "pred_atomic": "[\"Sam sam.\", \"Sam sam.\", \"Close.\"]",
+        "pred": "Sam sam. Sam sam. Close."
+    },
+    "v_Kic33dtLja8": {
+        "pred_atomic": "[\"Know be happy and sadi love shin every day I can and I'm the day maker happy I need.\", \"I know I can.\", \"And with I need a baby the papa.\"]",
+        "pred": "Know be happy and sadi love shin every day I can and I'm the day maker happy I need. I know I can. And with I need a baby the papa."
+    },
+    "v_60tIsGR0Zzg": {
+        "pred_atomic": "[\"It.\", \"Turn it on.\", \"Right.\", \"You seem to know what you're doing.\", \"I'm trying to move okay, here's a thingy.\", \"I have to move it onto the mon.\"]",
+        "pred": "It. Turn it on. Right. You seem to know what you're doing. I'm trying to move okay, here's a thingy. I have to move it onto the mon."
+    },
+    "v_cH3H-arDsH4": {
+        "pred_atomic": "[\"Alex, stop.\"]",
+        "pred": "Alex, stop."
+    },
+    "v_fMVuGUBs2cs": {
+        "pred_atomic": "[\"The Bloody Mary is made differently from every different bartender.\", \"Some bartenders will add olive brine.\", \"Some make it with lemon, some lime, celery salt, horseradish.\", \"This is actually a drink that's what is called rolled.\"]",
+        "pred": "The Bloody Mary is made differently from every different bartender. Some bartenders will add olive brine. Some make it with lemon, some lime, celery salt, horseradish. This is actually a drink that's what is called rolled."
+    },
+    "v_tSNg5rvDvVc": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_IcR28Yqt4mY": {
+        "pred_atomic": "[\"The House of Valentine presents the wood shop championship final.\", \"Four best axman in the land contest it.\", \"Lawrence O'Toole looking for a record eight championship win.\", \"Martin O' Toole looking to make it three in a row.\"]",
+        "pred": "The House of Valentine presents the wood shop championship final. Four best axman in the land contest it. Lawrence O'Toole looking for a record eight championship win. Martin O' Toole looking to make it three in a row."
+    },
+    "v_egowZOcbEkI": {
+        "pred_atomic": "[\"The next drill is called five spot Rebounding.\", \"Incorporates conditioning, rebounding, and finishing, and then decision making.\", \"The rebounder's job is to secure the ball and get it in the basket.\", \"You have to use your judgment and athleticism to rebound.\"]",
+        "pred": "The next drill is called five spot Rebounding. Incorporates conditioning, rebounding, and finishing, and then decision making. The rebounder's job is to secure the ball and get it in the basket. You have to use your judgment and athleticism to rebound."
+    },
+    "v_ZUl43hNzGjA": {
+        "pred_atomic": "[\"Cuba's National Ballet School is back home in a vast mansion after a $2 million makeover.\", \"300 students are busy making the most of all the room they have.\", \"Less time traveling between sites means more time for dancing, perfecting every possible move.\"]",
+        "pred": "Cuba's National Ballet School is back home in a vast mansion after a $2 million makeover. 300 students are busy making the most of all the room they have. Less time traveling between sites means more time for dancing, perfecting every possible move."
+    },
+    "v_tY9dmG6IyPo": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_X4J9UBXb0FM": {
+        "pred_atomic": "[\"Scott Huffman combines acrobatics with Coval, only 5ft nine inches tall.\", \"Twice at 595, the third and final attempt and sam.\", \"Sam.\"]",
+        "pred": "Scott Huffman combines acrobatics with Coval, only 5ft nine inches tall. Twice at 595, the third and final attempt and sam. Sam."
+    },
+    "v_u3XOLSC7lg0": {
+        "pred_atomic": "[\"Car close.\"]",
+        "pred": "Car close."
+    },
+    "v_PNuJUYo3Hf8": {
+        "pred_atomic": "[\"USA America Youth Sailing Force and their skipper and helmsman, Michael Manager get the job done here in race number one.\", \"And it will be youth sailing force, american One getting the first win.\"]",
+        "pred": "USA America Youth Sailing Force and their skipper and helmsman, Michael Manager get the job done here in race number one. And it will be youth sailing force, american One getting the first win."
+    },
+    "v_cqxiLraI8uY": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_sBwUwgTjhAU": {
+        "pred_atomic": "[\"Ram it.\"]",
+        "pred": "Ram it."
+    },
+    "v_U3-MtKZeUXM": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_RXT17X7lRoQ": {
+        "pred_atomic": "[\"So this is what you meant when you said that you would spend and now it's time to build from the bottom of the pit right to the top.\", \"Back in my bag to get it.\", \"I'm just the same as I was now.\", \"I don't ever want to let you down.\", \"Because after all the city never sleep tonight.\"]",
+        "pred": "So this is what you meant when you said that you would spend and now it's time to build from the bottom of the pit right to the top. Back in my bag to get it. I'm just the same as I was now. I don't ever want to let you down. Because after all the city never sleep tonight."
+    },
+    "v_BBKSKU6dGGk": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_xS5JDBeMxOs": {
+        "pred_atomic": "[\"Push.\", \"Push.\", \"Push.\", \"Push.\"]",
+        "pred": "Push. Push. Push. Push."
+    },
+    "v_Gvc1z9qypFQ": {
+        "pred_atomic": "[\"Make sure they get wet.\", \"Julia good job, guys.\"]",
+        "pred": "Make sure they get wet. Julia good job, guys."
+    },
+    "v_Ur_ToogEkCA": {
+        "pred_atomic": "[\"Second set.\", \"Where are we going?\", \"Anywhere.\", \"Here we go, then.\"]",
+        "pred": "Second set. Where are we going? Anywhere. Here we go, then."
+    },
+    "v_sk_pnoqXxhs": {
+        "pred_atomic": "[\"You turn it like this.\", \"Now open your mouth.\", \"Be nice and gentle.\", \"Don't do them too hard.\", \"Let's see.\", \"They look pretty clean.\", \"They're not blue yet.\", \"Go get the food.\"]",
+        "pred": "You turn it like this. Now open your mouth. Be nice and gentle. Don't do them too hard. Let's see. They look pretty clean. They're not blue yet. Go get the food."
+    },
+    "v_KApqxr02rcQ": {
+        "pred_atomic": "[\"Got a great dance.\", \"Yeah.\", \"La.\"]",
+        "pred": "Got a great dance. Yeah. La."
+    },
+    "v_uIcMgjypbqk": {
+        "pred_atomic": "[\"Maybe not a face don't mind.\", \"There was in my head kill Ram everything.\", \"Sam it I should.\"]",
+        "pred": "Maybe not a face don't mind. There was in my head kill Ram everything. Sam it I should."
+    },
+    "v_6wPVO7I8iIY": {
+        "pred_atomic": "[\"The Hanky Panky is a combination of Gin Martini rosso e Fernandebranca and ice blockistu a root alsdor al carr darna Zeva.\", \"How the cocktail asks out marker weather s out of class name on the trainer and heated for 60.\"]",
+        "pred": "The Hanky Panky is a combination of Gin Martini rosso e Fernandebranca and ice blockistu a root alsdor al carr darna Zeva. How the cocktail asks out marker weather s out of class name on the trainer and heated for 60."
+    },
+    "v_RjztFj0Zl40": {
+        "pred_atomic": "[\"Five, two.\", \"Then we got Tibeto.\", \"You got to catch the ball.\", \"2792.\", \"Catch it.\", \"27920.\", \"Oh, safe.\", \"No, that's ground.\", \"That was on the ground.\", \"Hitter.\", \"26346.\"]",
+        "pred": "Five, two. Then we got Tibeto. You got to catch the ball. 2792. Catch it. 27920. Oh, safe. No, that's ground. That was on the ground. Hitter. 26346."
+    },
+    "v_qtKa7Lr3URA": {
+        "pred_atomic": "[\"Okay.\", \"Here's Susan doing the laundry.\", \"Notice it.\", \"Finishing.\"]",
+        "pred": "Okay. Here's Susan doing the laundry. Notice it. Finishing."
+    },
+    "v_dZsk5Dp_5FE": {
+        "pred_atomic": "[\"Okay.\", \"Need to break it in two, though.\", \"Small pieces.\", \"One more should do it.\", \"Or two.\", \"All perfect.\"]",
+        "pred": "Okay. Need to break it in two, though. Small pieces. One more should do it. Or two. All perfect."
+    },
+    "v_UNJTM62HyqQ": {
+        "pred_atomic": "[\"In Malaysia, we are short community of Italians.\", \"But Italian products is many everywhere.\", \"You can find everywhere you want Italian products in Malaysia, in Australia, everywhere in the world.\", \"Today I'm going to show you spaghetti, alio, olio and chili.\"]",
+        "pred": "In Malaysia, we are short community of Italians. But Italian products is many everywhere. You can find everywhere you want Italian products in Malaysia, in Australia, everywhere in the world. Today I'm going to show you spaghetti, alio, olio and chili."
+    },
+    "v_p07Y--q4JQw": {
+        "pred_atomic": "[\"It you know when they got mine they did like it.\", \"How you put the hand in window?\", \"You try to sneak out of it?\", \"But your nail be looking so funny.\", \"It is very bad.\"]",
+        "pred": "It you know when they got mine they did like it. How you put the hand in window? You try to sneak out of it? But your nail be looking so funny. It is very bad."
+    },
+    "v_XPiMnbCr-sc": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\", \"Ram SA.\"]",
+        "pred": "Sam. Sam. Ram SA."
+    },
+    "v_yttmx8mcjGw": {
+        "pred_atomic": "[\"Take me back to the game.\", \"I love you.\", \"And me right here.\", \"We got the best fight.\", \"Come watch and play.\", \"Come and join you now.\", \"Come on, Summertime.\"]",
+        "pred": "Take me back to the game. I love you. And me right here. We got the best fight. Come watch and play. Come and join you now. Come on, Summertime."
+    },
+    "v_MgjxjBxGrQU": {
+        "pred_atomic": "[\"Like princess in ouichi Gooter stuff.\", \"Ralph me doing pizza freshen her point.\", \"What is the kind of fire?\", \"Blue man?\", \"It it put her stuff.\", \"Mario forgot the stuff.\", \"Music.\"]",
+        "pred": "Like princess in ouichi Gooter stuff. Ralph me doing pizza freshen her point. What is the kind of fire? Blue man? It it put her stuff. Mario forgot the stuff. Music."
+    },
+    "v_ej9TkJVjK9M": {
+        "pred_atomic": "[\"One section.\", \"Come on, Mike.\", \"Um come on, drum.\"]",
+        "pred": "One section. Come on, Mike. Um come on, drum."
+    },
+    "v_IL8__uSFpqg": {
+        "pred_atomic": "[\"The world.\"]",
+        "pred": "The world."
+    },
+    "v_CeXtKbFnPIQ": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_IDuoF51IMJ8": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_tF8Nv-QxbIU": {
+        "pred_atomic": "[\"Terry shows you how to clean suede and nubuk shoes.\", \"I use a suede block and a suee brush.\", \"This is a simple and safe way to remove most marks from suede.\", \"Stay away from wet cleaners.\"]",
+        "pred": "Terry shows you how to clean suede and nubuk shoes. I use a suede block and a suee brush. This is a simple and safe way to remove most marks from suede. Stay away from wet cleaners."
+    },
+    "v_WdJUMmy2ox8": {
+        "pred_atomic": "[\"Nookie email.\", \"FA Cafe Maldives presentation.\", \"Kaku cup.\", \"Yebobas wookup.\", \"Show the show the show them what it is.\", \"It's my boo.\", \"Should we pause the video?\", \"All right.\", \"Peace out.\"]",
+        "pred": "Nookie email. FA Cafe Maldives presentation. Kaku cup. Yebobas wookup. Show the show the show them what it is. It's my boo. Should we pause the video? All right. Peace out."
+    },
+    "v_dW6OZV43ulU": {
+        "pred_atomic": "[\"Back to your past pray no gods to take a rest now lights coming in you on your side.\", \"Don't you realize your happy throw?\", \"Shoot the breath how?\", \"Trust it.\", \"Soon shine will come rounded out.\"]",
+        "pred": "Back to your past pray no gods to take a rest now lights coming in you on your side. Don't you realize your happy throw? Shoot the breath how? Trust it. Soon shine will come rounded out."
+    },
+    "v_PdwWFueQErM": {
+        "pred_atomic": "[\"Say what's up to YouTube, Ken.\", \"What up, YouTube?\", \"Working hard?\", \"Hardly work.\", \"You need some more work, don't you?\", \"I'm the boss.\", \"I don't work.\"]",
+        "pred": "Say what's up to YouTube, Ken. What up, YouTube? Working hard? Hardly work. You need some more work, don't you? I'm the boss. I don't work."
+    },
+    "v_WOUkPgHtt4E": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_vaV6_bxiTLI": {
+        "pred_atomic": "[\"I go, you know, 1234.\", \"And then you throw it farther, try to get but it's only seven.\", \"One I made 4567.\", \"The next turn you start, you drop it on ten and you get there.\", \"And you want to go back again of private amateur.\"]",
+        "pred": "I go, you know, 1234. And then you throw it farther, try to get but it's only seven. One I made 4567. The next turn you start, you drop it on ten and you get there. And you want to go back again of private amateur."
+    },
+    "v_TB5AeIdAndA": {
+        "pred_atomic": "[\"Is ain't away I don't like I'm sorry she is the whole one.\", \"The only thing keeps us alive really trust me to.\"]",
+        "pred": "Is ain't away I don't like I'm sorry she is the whole one. The only thing keeps us alive really trust me to."
+    },
+    "v_9ZVWD0ZKXZg": {
+        "pred_atomic": "Here is the list of atomic sentences that can be loaded with json.loads:\n\n[\"SA.\"]",
+        "pred": "SA."
+    },
+    "v_Fb4X1PWfOvY": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_LuH7I7Rxju8": {
+        "pred_atomic": "[\"Don't tell you that everybody.\"]",
+        "pred": "Don't tell you that everybody."
+    },
+    "v_mShp2gzuPOM": {
+        "pred_atomic": "[\"Somebody somebody do go with Skylar.\", \"Want some?\", \"Oh, yeah.\", \"But we did it.\"]",
+        "pred": "Somebody somebody do go with Skylar. Want some? Oh, yeah. But we did it."
+    },
+    "v_AB480dHyDeM": {
+        "pred_atomic": "[\"Jason Marks shoe cleaner.\", \"Supposed to create a foaming action to these.\", \"Hopefully could get all the dirt off the boost on the white.\", \"Took me less than 10 minutes to do this one right here.\"]",
+        "pred": "Jason Marks shoe cleaner. Supposed to create a foaming action to these. Hopefully could get all the dirt off the boost on the white. Took me less than 10 minutes to do this one right here."
+    },
+    "v_1KONAdZGdWU": {
+        "pred_atomic": "[\"Sierra uses cream afterwards.\", \"Last time she shaved her legs was last night, 5 hours ago.\", \"If you cut, you up, it does.\", \"I'm going to send this to YouTube.\", \"You do, and I will never talk to you again.\"]",
+        "pred": "Sierra uses cream afterwards. Last time she shaved her legs was last night, 5 hours ago. If you cut, you up, it does. I'm going to send this to YouTube. You do, and I will never talk to you again."
+    },
+    "v_Ku76zinwWkg": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_T7YcO-sOLuU": {
+        "pred_atomic": "[\"Come the worst of my people's come first.\", \"I live my life right it on the edge on the y.\", \"I'm from the group where friction needs to fire back your bricks.\", \"Next time you see us we'll be deadly on tour when worse come to work.\"]",
+        "pred": "Come the worst of my people's come first. I live my life right it on the edge on the y. I'm from the group where friction needs to fire back your bricks. Next time you see us we'll be deadly on tour when worse come to work."
+    },
+    "v_KsFid_YVsn0": {
+        "pred_atomic": "[\"Sam ram sam ram SA sam ram Sam.\"]",
+        "pred": "Sam ram sam ram SA sam ram Sam."
+    },
+    "v_tLk0Y04OaCA": {
+        "pred_atomic": "[\"If you're dirty and you know it, wash your hands.\", \"Second, you get soap and you rub for 15 to 20 seconds.\", \"Then your hands will surely show it.\"]",
+        "pred": "If you're dirty and you know it, wash your hands. Second, you get soap and you rub for 15 to 20 seconds. Then your hands will surely show it."
+    },
+    "v_s9PkkDEl6aY": {
+        "pred_atomic": "[\"Gotta get a pentagon shake.\", \"You take it from damage.\", \"You drive me crazy and it feels alright.\", \"Let you let me let go.\", \"I wanna get on me.\", \"Let leto.\"]",
+        "pred": "Gotta get a pentagon shake. You take it from damage. You drive me crazy and it feels alright. Let you let me let go. I wanna get on me. Let leto."
+    },
+    "v_l7qSKJyq6mA": {
+        "pred_atomic": "[\"It's 20 it.\", \"Thanks.\"]",
+        "pred": "It's 20 it. Thanks."
+    },
+    "v_YK9BIL9fKA0": {
+        "pred_atomic": "[\"Katie Cupcake makes a hardcore hopscotch course with three rocks.\", \"Kaylin gets to cover up the speaker.\", \"How does it feel to complete the challenge?\", \"Do you feel like a champion?\"]",
+        "pred": "Katie Cupcake makes a hardcore hopscotch course with three rocks. Kaylin gets to cover up the speaker. How does it feel to complete the challenge? Do you feel like a champion?"
+    },
+    "v_j6OcN4OQZVM": {
+        "pred_atomic": "[\"SA you don't.\", \"Only you long by watching.\", \"Only you we.\"]",
+        "pred": "SA you don't. Only you long by watching. Only you we."
+    },
+    "v_rc-DiL5er28": {
+        "pred_atomic": "[\"Daniel.\", \"Brian Hart.\", \"Jelly David.\", \"Nick Gallo.\", \"Kyle.\", \"Hornets.\", \"We need matching uniforms.\", \"Wow.\", \"That's a winning elimination and a catch.\", \"As important as being able to throw out here to play.\"]",
+        "pred": "Daniel. Brian Hart. Jelly David. Nick Gallo. Kyle. Hornets. We need matching uniforms. Wow. That's a winning elimination and a catch. As important as being able to throw out here to play."
+    },
+    "v_YU-dUWGOoD4": {
+        "pred_atomic": "[\"Work off.\", \"Push.\", \"Down it.\", \"Come on, get out.\", \"Take your 30 seconds.\", \"All the way.\"]",
+        "pred": "Work off. Push. Down it. Come on, get out. Take your 30 seconds. All the way."
+    },
+    "v_82EtiBkAsPg": {
+        "pred_atomic": "[\"Owl.\", \"Come on, let's it.\"]",
+        "pred": "Owl. Come on, let's it."
+    },
+    "v_F9mk2Dn2tFw": {
+        "pred_atomic": "[\"Wilson High School to hold pie contest to raise funds for annual grant.\", \"What's up?\", \"What happened, son?\", \"Oh, man, the.\"]",
+        "pred": "Wilson High School to hold pie contest to raise funds for annual grant. What's up? What happened, son? Oh, man, the."
+    },
+    "v_ddzfgHw_qlU": {
+        "pred_atomic": "[\"Take on take SA.\"]",
+        "pred": "Take on take SA."
+    },
+    "v_jQzBXawu29s": {
+        "pred_atomic": "[\"David Cantini shows you some of the many aspects of playing the Irish wooden flute.\", \"Much of getting a tone out of the flute has to do with breathing.\", \"In order to get good tone, you also have to pay attention to the inside of your head.\"]",
+        "pred": "David Cantini shows you some of the many aspects of playing the Irish wooden flute. Much of getting a tone out of the flute has to do with breathing. In order to get good tone, you also have to pay attention to the inside of your head."
+    },
+    "v_E5YBb4rzV30": {
+        "pred_atomic": "[\"You give your classic tuna salad a fresh new take with this recipe for Tuna Salad Lettuce Wraps.\", \"Inflaked Bumblebee Heritage, pack solid white albacore tuna in spring water.\", \"Then arrange four large lettuce leaves on a plate.\", \"Roll the sides in like a burrito.\"]",
+        "pred": "You give your classic tuna salad a fresh new take with this recipe for Tuna Salad Lettuce Wraps. Inflaked Bumblebee Heritage, pack solid white albacore tuna in spring water. Then arrange four large lettuce leaves on a plate. Roll the sides in like a burrito."
+    },
+    "v_JiNcVb97CnA": {
+        "pred_atomic": "[\"Be a god.\"]",
+        "pred": "Be a god."
+    },
+    "v_MidLOhRnpnU": {
+        "pred_atomic": "[\"Happy Ram, Saturday.\", \"Donna second.\", \"Don't set it, don'tSet it, Don't Set it.\", \"Happy Saturday.\"]",
+        "pred": "Happy Ram, Saturday. Donna second. Don't set it, don'tSet it, Don't Set it. Happy Saturday."
+    },
+    "v_BAtlo_AGFWs": {
+        "pred_atomic": "[\"Canadian astronaut Chris Hadfield uses social media to provide a rare insight into life on the International Space Station.\", \"Hadfield blasted into space in December and now has half a million followers.\", \"On Wednesday, Hatfield became the first Canadian to assume command of the international space station.\"]",
+        "pred": "Canadian astronaut Chris Hadfield uses social media to provide a rare insight into life on the International Space Station. Hadfield blasted into space in December and now has half a million followers. On Wednesday, Hatfield became the first Canadian to assume command of the international space station."
+    },
+    "v_oR8o_PuKS28": {
+        "pred_atomic": "[\"Yeah.\", \"Danny.\"]",
+        "pred": "Yeah. Danny."
+    },
+    "v_0BtHd6dvm78": {
+        "pred_atomic": "[\"Your sister's number, your mom's number and your house number and I got another ace.\",\n\"Why are you doing right at somebody else house you don't even know?\",\n\"Because he threatened me.\",\n\"Said he's going to shoot me around.\",\n\"Do the word.\"]",
+        "pred": "Your sister's number, your mom's number and your house number and I got another ace. Why are you doing right at somebody else house you don't even know? Because he threatened me. Said he's going to shoot me around. Do the word."
+    },
+    "v_htzAYwoAZkg": {
+        "pred_atomic": "[\"Ayma and visa stella is these are there.\", \"End effect octave velaston's training nahiran bunchon on ognair medurnan the bizonda hide by environment stressless computer.\", \"Right, the computer guns unavailable.\", \"That's the fear guns.\"]",
+        "pred": "Ayma and visa stella is these are there. End effect octave velaston's training nahiran bunchon on ognair medurnan the bizonda hide by environment stressless computer. Right, the computer guns unavailable. That's the fear guns."
+    },
+    "v_qsEnLQ2UnEA": {
+        "pred_atomic": "[\"It.\"]",
+        "pred": "It."
+    },
+    "v_-IMXSEIabMM": {
+        "pred_atomic": "[\"Snow shoveling injuries land thousands of people in the emergency room each year.\", \"96% of them happen at home.\", \"Sprains strains and fractures are always near the top of the list.\", \"Overexertion can cause dehydration, fatigue, and in some cases, heart attack.\"]",
+        "pred": "Snow shoveling injuries land thousands of people in the emergency room each year. 96% of them happen at home. Sprains strains and fractures are always near the top of the list. Overexertion can cause dehydration, fatigue, and in some cases, heart attack."
+    },
+    "v_b4xvXZq5uD8": {
+        "pred_atomic": "[\"Just go right down the middle.\", \"Straight.\", \"Who has Pony phone?\", \"After the full layer of going on YouTube, it's dying too thick.\", \"Don't do the back the whole day.\", \"I'm finished.\"]",
+        "pred": "\"Just go right down the middle. Straight. Who has Pony phone? \" After the full layer of going on YouTube, it's dying too thick. Don't do the back the whole day. I'm finished."
+    },
+    "v_UvOEuhS0V3E": {
+        "pred_atomic": "[\"Leg out.\", \"No.\", \"Freedom of.\"]",
+        "pred": "Leg out. No. Freedom of."
+    },
+    "v_Xmp_twSbkAg": {
+        "pred_atomic": "[\"It's been a while.\", \"I'm not the best artist.\", \"But I feel like I have to be.\", \"For example, a few weeks back I painted ironman.\", \"Did not upload the video because I didn't like the way ironman looked.\", \"Here it is.\"]",
+        "pred": "It's been a while. I'm not the best artist. But I feel like I have to be. For example, a few weeks back I painted ironman. Did not upload the video because I didn't like the way ironman looked. Here it is."
+    },
+    "v_kPn9NzU4W48": {
+        "pred_atomic": "[\"You guys ready?\", \"Okay, on the blue corner, we got Thailand.\", \"22nd left, 20 seconds.\", \"Pounce him tight.\", \"Hit my legs there's back.\"]",
+        "pred": "You guys ready? Okay, on the blue corner, we got Thailand. 22nd left, 20 seconds. Pounce him tight. Hit my legs there's back."
+    },
+    "v_7bwruwic1CI": {
+        "pred_atomic": "[\"Barkinsaw beat his Oklahoma team eleven to five at Three Mile High kickball open in Denver.\", \"Cobra Kai wins the game.\", \"Where's Miyaki sweep the leg number?\"]",
+        "pred": "Barkinsaw beat his Oklahoma team eleven to five at Three Mile High kickball open in Denver. Cobra Kai wins the game. Where's Miyaki sweep the leg number?"
+    },
+    "v_325CAs4hhq8": {
+        "pred_atomic": "[\"Virginia field hockey has answered preseason doubts with a nearly perfect start.\", \"The Cavaliers sit at nine and one, and they're ranked fourth nationally.\", \"Instrumental in this success is a nucleus of talented international players hailing from Australia and the UK.\", \"Freshman Lucy Hyams is the newest member of the international class.\"]",
+        "pred": "Virginia field hockey has answered preseason doubts with a nearly perfect start. The Cavaliers sit at nine and one, and they're ranked fourth nationally. Instrumental in this success is a nucleus of talented international players hailing from Australia and the UK. Freshman Lucy Hyams is the newest member of the international class."
+    },
+    "v_HgYuRKZ_V90": {
+        "pred_atomic": "[\"Get it, Judy.\", \"Get that ball.\", \"Good girl.\", \"Go.\", \"Get rid of it.\", \"There you go.\", \"Drive it.\", \"It it's my son.\"]",
+        "pred": "Get it, Judy. Get that ball. Good girl. Go. Get rid of it. There you go. Drive it. It it's my son."
+    },
+    "v_QN-4aLiDhiQ": {
+        "pred_atomic": "[\"She says, as long as it can't be seen.\", \"Do you have a hairband I can use to, like, tie my hair back?\", \"Just don't touch her.\", \"We don't want to budge her.\"]",
+        "pred": "She says, as long as it can't be seen. Do you have a hairband I can use to, like, tie my hair back? Just don't touch her. We don't want to budge her."
+    },
+    "v_P7Z4i1gmzjs": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_SEVVSei-r6w": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_jN-jnIgzd6k": {
+        "pred_atomic": "[\"Muscle boy.\", \"One, two, three notice back on the side.\", \"If you do not know what's supposed to come next, do not open your eyes.\", \"Think shorter steps when you step backwards.\", \"40, 50 opening your eyes now.\"]",
+        "pred": "Muscle boy. One, two, three notice back on the side. If you do not know what's supposed to come next, do not open your eyes. Think shorter steps when you step backwards. 40, 50 opening your eyes now."
+    },
+    "v_d6PdD2O3Yrs": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_SLHPvKh-_x8": {
+        "pred_atomic": "[\"Our hands move germs around the environment so it's very important that we have good hand washing techniques.\", \"Remember, wet hands attract organisms more than dry it.\", \"It is important to dry your hands thoroughly.\"]",
+        "pred": "Our hands move germs around the environment so it's very important that we have good hand washing techniques. Remember, wet hands attract organisms more than dry it. It is important to dry your hands thoroughly."
+    },
+    "v_15yU0R2MBQM": {
+        "pred_atomic": "[\"Hey there.\", \"I'm gonna brush Maggie's teeth today.\", \"Her own house, she got her own car.\", \"Just relax.\", \"Front your own flat screen, back broke, cook clean.\", \"And don't make a make a scene when you call on a cellular.\"]",
+        "pred": "Hey there. I'm gonna brush Maggie's teeth today. Her own house, she got her own car. Just relax. Front your own flat screen, back broke, cook clean. And don't make a make a scene when you call on a cellular."
+    },
+    "v_vMcXLYBcHsM": {
+        "pred_atomic": "[\"This is a blog sponsored by G Fuel.\", \"Click the link below and get free samples.\", \"If you want to try some, you have to pay for shipping.\", \"Who doesn't like free g fuel?\"]",
+        "pred": "This is a blog sponsored by G Fuel. Click the link below and get free samples. If you want to try some, you have to pay for shipping. Who doesn't like free g fuel?"
+    },
+    "v_h_r8gioFi4k": {
+        "pred_atomic": "[\"Ram she what is that?\", \"Good.\", \"Now nice.\", \"We go.\"]",
+        "pred": "Ram she what is that? Good. Now nice. We go."
+    },
+    "v_MbjyQGdTtK8": {
+        "pred_atomic": "[\"Christina with modernly made shows you how to make your own furniture polish.\", \"The ingredients that you'll need are olive oil, lemon juice.\", \"Simply spray the solution onto the surface, and then you're going to wipe it down.\"]",
+        "pred": " Christina with modernly made shows you how to make your own furniture polish. The ingredients that you'll need are olive oil, lemon juice. Simply spray the solution onto the surface, and then you're going to wipe it down."
+    },
+    "v_GvMep9y7d7c": {
+        "pred_atomic": "[\"The large chain ring definitely out of lateral trueness right through here.\", \"Middle ring is actually not so bad.\", \"Let's see if we can bring this back a little bit.\", \"Little bits at a time.\", \"We can always add more later.\"]",
+        "pred": "The large chain ring definitely out of lateral trueness right through here. Middle ring is actually not so bad. Let's see if we can bring this back a little bit. Little bits at a time. We can always add more later."
+    },
+    "v_NojaHuKBagQ": {
+        "pred_atomic": "[\"An adhesive eraser is a rubber eraser that you can get at an art store or Walmart.\", \"It's amazing for cleaning shoes or removing glue, removing scuffs.\", \"They're about two to $3.\"]",
+        "pred": "An adhesive eraser is a rubber eraser that you can get at an art store or Walmart. It's amazing for cleaning shoes or removing glue, removing scuffs. They're about two to $3."
+    },
+    "v_uqwf903l5-E": {
+        "pred_atomic": "[\"Today little baby fast and the rest of you bring up all you have to believe of love and laugh.\", \"Listen to our Dale and never be on.\", \"Take up and take it up.\", \"Take off this one.\"]",
+        "pred": "Today little baby fast and the rest of you bring up all you have to believe of love and laugh. Listen to our Dale and never be on. Take up and take it up. Take off this one."
+    },
+    "v_0UTrTg3DF5g": {
+        "pred_atomic": "[\"Pinky: Today we're to be making what I call a Jimi Hendrix.\", \"It's called Little Purple Haze.\", \"Once again, this is the Jenny Hendricks perfect blend with raspberry and gin.\"]",
+        "pred": "Pinky: Today we're to be making what I call a Jimi Hendrix. It's called Little Purple Haze. Once again, this is the Jenny Hendricks perfect blend with raspberry and gin."
+    },
+    "v_wh4JNeQh9FQ": {
+        "pred_atomic": "[\"Off.\", \"Get the pain off, Mama, please.\", \"Am I hurting you if I do this?\", \"No, it it make a small dot or a small line and I'll stop.\", \"So it ready?\", \"Yeah, it feels like that.\", \"I'm going to get a little bit better.\"]",
+        "pred": "Off. Get the pain off, Mama, please. Am I hurting you if I do this? No, it it make a small dot or a small line and I'll stop. So it ready? Yeah, it feels like that. I'm going to get a little bit better."
+    },
+    "v_Y16uL6dYDzQ": {
+        "pred_atomic": "[\"Right now it is Lucas world and we are second in it.\", \"This baby is better.\", \"Now, that means time for the top 1455.\"]",
+        "pred": "Right now it is Lucas world and we are second in it. This baby is better. Now, that means time for the top 1455."
+    },
+    "v_N1_pNhVqG20": {
+        "pred_atomic": "[\"For the takeoff, flip the sail by slicing it into the wind.\", \"Now aggressively rotate the sail towards the water on the leverard side.\", \"Keep your musthand close to your body with the sail under you.\", \"Pull the board around and land with it.\"]",
+        "pred": "For the takeoff, flip the sail by slicing it into the wind. Now aggressively rotate the sail towards the water on the leverard side. Keep your musthand close to your body with the sail under you. Pull the board around and land with it."
+    },
+    "v_I7slpTgl0jc": {
+        "pred_atomic": "[\"Owens.\", \"Welcome to come on.\"]",
+        "pred": "Owens. Welcome to come on."
+    },
+    "v_uvglcAUnQv0": {
+        "pred_atomic": "[\"Yeah.\", \"See, this is like a film.\", \"That would be Rama.\", \"Not so, but I can wait a jam my mother never so brother.\", \"We know my time my time when?\"]",
+        "pred": "Yeah. See, this is like a film. That would be Rama. Not so, but I can wait a jam my mother never so brother. We know my time my time when?"
+    },
+    "v_EZyLBq2jJtE": {
+        "pred_atomic": "[\"Bethany getting ready for old dynamic strength and conditioning.\", \n\"Kind of forgot to do some things before we left the house.\", \n\"The cleaning lady will be here tonight.\", \n\"Do you believe I'm dry shaving?\", \n\"Why?\", \n\"Bethany does not have a date.\"]",
+        "pred": "Bethany getting ready for old dynamic strength and conditioning. Kind of forgot to do some things before we left the house. The cleaning lady will be here tonight. Do you believe I'm dry shaving? Why? Bethany does not have a date."
+    },
+    "v_c7S423zJqPo": {
+        "pred_atomic": "[\"Looking at the mind\", \"I can't wait turn them loud\", \"we just keep it down\", \"so everything cannot be\", \"I need\", \"I need I can hear.\"]",
+        "pred": "Looking at the mind I can't wait turn them loud we just keep it down so everything cannot be I need, I need I can hear."
+    },
+    "v_syfyM1Pble8": {
+        "pred_atomic": "[\"Watch four times.\", \"Your knees behind the elephant.\", \"Turn it up.\", \"Come on, guys, you know, find me down.\", \"Circle.\", \"Jesus.\", \"Later.\"]",
+        "pred": "Watch four times. Your knees behind the elephant. Turn it up. Come on, guys, you know, find me down. Circle. Jesus. Later."
+    },
+    "v_pJ3sECWr5Xg": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_nDHupsLdar0": {
+        "pred_atomic": "[\"I'm gonna play a little blues for you, Nikia G.\", \"It's a special 20.\"]",
+        "pred": "I'm gonna play a little blues for you, Nikia G. It's a special 20."
+    },
+    "v_YnjITZnk6OE": {
+        "pred_atomic": "[\"Lead with those hands.\", \"Ten.\"]",
+        "pred": "Lead with those hands. Ten."
+    },
+    "v_LvaU_4xbxb0": {
+        "pred_atomic": "[\"Keep that hand up, Tommy.\", \"Don't drop your hands out like this.\", \"And use your elbow all the time.\", \"I can watch it.\", \"Relax, relax.\"]",
+        "pred": "Keep that hand up, Tommy. Don't drop your hands out like this. And use your elbow all the time. I can watch it. Relax, relax."
+    },
+    "v_C7yd6yEkxXE": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_DJTvj9lfSWU": {
+        "pred_atomic": "[\"This is the grossest bathroom ever.\", \"The worst thing is because people come riding to work, it smells, like, really bad.\", \"Plan B is the rooftop, I think.\", \"I'm impressed at his technique.\", \"More than anything, I've been allowed to shut up.\"]",
+        "pred": "This is the grossest bathroom ever. The worst thing is because people come riding to work, it smells, like, really bad. Plan B is the rooftop, I think. I'm impressed at his technique. More than anything, I've been allowed to shut up."
+    },
+    "v_3M290KZV5lo": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_EK7qW-oavQY": {
+        "pred_atomic": "[\"Steve Roberts'third\", \"golden Row\", \"four to four\"]",
+        "pred": "Steve Roberts'third, golden Row, four to four."
+    },
+    "v_AQnp2QAnwI0": {
+        "pred_atomic": "[\"Welcome into number 22 teen ballet large group this is Vivaldi's winter 22 ram sam.\", \"Sam.\", \"It's a Vivaldi composition for young dancers.\"]",
+        "pred": "Welcome into number 22 teen ballet large group this is Vivaldi's winter 22 ram sam. Sam. It's a Vivaldi composition for young dancers."
+    },
+    "v_83f0iwb8VW8": {
+        "pred_atomic": "[\"Um good move on.\", \"Put your legs up.\", \"Hands up.\", \"Get their hands and get the punch that's got last 10 seconds.\", \"Let's see it's.\"]",
+        "pred": "Um good move on. Put your legs up. Hands up. Get their hands and get the punch that's got last 10 seconds. Let's see it's."
+    },
+    "v_zEttEkAdHts": {
+        "pred_atomic": "[\"Sam ram.\"]",
+        "pred": "Sam ram."
+    },
+    "v_Lb7Q8qv3MHU": {
+        "pred_atomic": "[\"Yeah,\", \"but.\"]",
+        "pred": "Yeah, but."
+    },
+    "v_uub0z8wJfhU": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_w4pO-1-FG5w": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_cCDffwsJvsY": {
+        "pred_atomic": "[\"Daughter.\", \"It.\", \"Sam.\", \"Don't.\", \"Survival torch.\"]",
+        "pred": "Daughter. It. Sam. Don't. Survival torch."
+    },
+    "v_ZLJ2BmBkLJg": {
+        "pred_atomic": "[\"It.\"]",
+        "pred": "It."
+    },
+    "v_B_U7vUtoCKY": {
+        "pred_atomic": "[\"Audio Junk audio Jump audio Jump audio Jump it audio Jump audio Jump.\"]",
+        "pred": "Audio Junk audio Jump audio Jump audio Jump it audio Jump audio Jump."
+    },
+    "v_wcxEkMoOmBk": {
+        "pred_atomic": "[\"The best way to get quick, easy curls is with a roller set.\", \"What's important is finding the right rollers for your hair type and for the desired look you want.\", \"Thanks for watching, and I hope you're inspired to try a hair center.\"]",
+        "pred": "The best way to get quick, easy curls is with a roller set. What's important is finding the right rollers for your hair type and for the desired look you want. Thanks for watching, and I hope you're inspired to try a hair center."
+    },
+    "v_3VjaC7wdMso": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_VhdidrZKuTU": {
+        "pred_atomic": "[\"You need three parts to the fire triangle.\", \n\"The first one is fuel.\", \n\"The second one is oxygen.\", \n\"The third one is heat.\", \n\"You want to have perfect balance on your TP when you're making this fire.\"]",
+        "pred": "You need three parts to the fire triangle. The first one is fuel, the second one is oxygen and the third one is heat. You want to have perfect balance on your TP when you're making this fire."
+    },
+    "v_5P9Tbut04xE": {
+        "pred_atomic": "[\"Dave Kettlewell is doing a quick tutorial on how to play an octave on your chromatic harmonica.\", \"An octave is playing two notes that are separated by one octave, but it's the same note.\", \"Just play around with it for a little bit.\"]",
+        "pred": "Dave Kettlewell is doing a quick tutorial on how to play an octave on your chromatic harmonica. An octave is playing two notes that are separated by one octave, but it's the same note. Just play around with it for a little bit."
+    },
+    "v_iUiXNXRs4rU": {
+        "pred_atomic": "[\"When your chain breaks, you're going to need to make sure you have a master link in your bag.\", \"You just kind of want to work it until you hear a lock.\", \"That was your video tech tip of the day.\"]",
+        "pred": "When your chain breaks, you're going to need to make sure you have a master link in your bag. You just kind of want to work it until you hear a lock. That was your video tech tip of the day."
+    },
+    "v_IRua6QGP-Ow": {
+        "pred_atomic": "[\"It.\", \"That it.\"]",
+        "pred": "It. That it."
+    },
+    "v_4QRRxub6L5Q": {
+        "pred_atomic": "[\"I'm out of the sun goes down the star whistle baby, let me know.\"]",
+        "pred": "I'm out of the sun goes down the star whistle baby, let me know."
+    },
+    "v_EWNqkVaOfbE": {
+        "pred_atomic": "[\"The Team's Association for Cricket in Kuwait was established in 2009.\", \n\"The aim is to promote, expand and develop the game of cricket in Kuwait.\", \n\"There are no Kuwaiti nationals representing Kuwait because of the lack of the numbers.\", \n\"With the Doha cricket ground coming in now the opportunity is more.\"]",
+        "pred": "The Team's Association for Cricket in Kuwait was established in 2009. The aim is to promote, expand and develop the game of cricket in Kuwait. There are no Kuwaiti nationals representing Kuwait because of the lack of the numbers. With the Doha cricket ground coming in now the opportunity is more."
+    },
+    "v_QOaPQpXemCA": {
+        "pred_atomic": "[\"This season it's time to play with colours and make yourself very beautiful.\", \"Here are some makeup tips from hair and beauty expert Swati Gupta.\", \"The most important aspect of makeup is the eyes.\"]",
+        "pred": "This season it's time to play with colours and make yourself very beautiful. Here are some makeup tips from hair and beauty expert Swati Gupta. The most important aspect of makeup is the eyes."
+    },
+    "v_uCvjzcVCtEs": {
+        "pred_atomic": "[\"Me.\", \"I follow you're.\"]",
+        "pred": "Me. I follow you're."
+    },
+    "v_ZrSK-fisXGg": {
+        "pred_atomic": "[\"How old were you when you got to the second one?\", \"Two years ago.\", \"I think I just lost the circulation.\", \"All fingers.\", \"Why did it have to be the hand that I had the earrings in left and right?\", \"She'll get over it.\"]",
+        "pred": "How old were you when you got to the second one? Two years ago. I think I just lost the circulation. All fingers. Why did it have to be the hand that I had the earrings in left and right? She'll get over it."
+    },
+    "v_aLb79wtvxoQ": {
+        "pred_atomic": "[\"It.\", \"Look at all those dirted dishes.\"]",
+        "pred": "It. Look at all those dirted dishes."
+    },
+    "v_ZSdnDVGXU3k": {
+        "pred_atomic": "[\"And the dam.\", \"Sam.\", \"Sam.\", \"Sam.\"]",
+        "pred": "And the dam. Sam. Sam. Sam."
+    },
+    "v_SNJgJB2PGdI": {
+        "pred_atomic": "[\"Sam RA SA sam Ram.\"]",
+        "pred": "Sam RA SA sam Ram."
+    },
+    "v_dRF1C_sBE5M": {
+        "pred_atomic": "[\"Tyson.\", \"What's the technique?\", \"Technique?\", \"You hold an axe.\", \"This is actually a really heavy axe.\", \"When you bring it down, you slide him.\", \"Just let the weight of that do all the work.\", \"Put some effort into it.\", \"No girly point.\"]",
+        "pred": "Tyson. What's the technique? Technique? You hold an axe. This is actually a really heavy axe. When you bring it down, you slide him. Just let the weight of that do all the work. Put some effort into it. No girly point."
+    },
+    "v_nTY4IaGRFIc": {
+        "pred_atomic": "[\"Momentum it carburetor make it back\", \"make it nice\", \"it said that you're taking it down\", \"it's a nice it\"]",
+        "pred": "Momentum it carburetor make it back, make it nice it said that you're taking it down it's a nice it."
+    },
+    "v_2VZumBKJuPs": {
+        "pred_atomic": "[\"Dollars worth.\", \"One man's trash is another man's cup.\", \"Does that hurt?\", \"Yeah, the clamp just a little bite.\", \"Looks perfect.\", \"She's got a really good belly button to get pierced.\", \"Just in time for summer.\"]",
+        "pred": "Dollars worth. One man's trash is another man's cup. Does that hurt? Yeah, the clamp just a little bite. Looks perfect. She's got a really good belly button to get pierced. Just in time for summer."
+    },
+    "v_wjr5M-6qEWI": {
+        "pred_atomic": "[\"Hail and rock sangazin are as a nancy living.\", \"Do you get color and Mardigan?\", \"They didn't give.\", \"I Romeo Gadget, young as this is your romney.\", \"Come on.\", \"It's my roma.\"]",
+        "pred": "Hail and rock sangazin are as a nancy living. Do you get color and Mardigan? They didn't give. I Romeo Gadget, young as this is your romney. Come on. It's my roma."
+    },
+    "v_IgDBDaIoNAM": {
+        "pred_atomic": "[\"I wish you luck.\", \"Nicholas drive.\", \"Tell me something.\", \"You tell me.\", \"No.\", \"Next day clap.\"]",
+        "pred": "I wish you luck. Nicholas drive. Tell me something. You tell me. No. Next day clap."
+    },
+    "v_skk-nX55gvA": {
+        "pred_atomic": "[\"Sam, don't be.\"]",
+        "pred": "Sam, don't be."
+    },
+    "v_cms1BP4eKOA": {
+        "pred_atomic": "[\"This drill emphasizes the full court skills needed by your point guard.\", \"Two lines are formed at each side of the floor around the free throw line extended.\", \"The guard will time his cut around the cone to meet the pass coming out of the imake.\", \"Each player will then attack the basket and shoot the speed layup.\"]",
+        "pred": "This drill emphasizes the full court skills needed by your point guard. Two lines are formed at each side of the floor around the free throw line extended. The guard will time his cut around the cone to meet the pass coming out of the imake. Each player will then attack the basket and shoot the speed layup."
+    },
+    "v_p1QGn0IzfW0": {
+        "pred_atomic": "[\"All right.\", \"Oh, fun.\", \"One Facebook.\", \"Um.\"]",
+        "pred": "All right. Oh, fun. One Facebook. Um."
+    },
+    "v_qU4GmCN2e1Y": {
+        "pred_atomic": "[\"Go.\", \"There you go.\", \"Go, is it?\", \"Keep going.\", \"Come on.\", \"You got this.\"]",
+        "pred": "Go. There you go. Go, is it? Keep going. Come on. You got this."
+    },
+    "v_34ZxyyFjbHQ": {
+        "pred_atomic": "[\"Sam dam.\"]",
+        "pred": "Sam dam."
+    },
+    "v_-cAcA8dO7kA": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_H8oehT8eeGc": {
+        "pred_atomic": "[\"Video every birthday.\"]",
+        "pred": "Video every birthday."
+    },
+    "v_K6QunmuTZOQ": {
+        "pred_atomic": "[\"Do a Hang Power Snatch, you'll notice that that pull is exactly the same.\", \"There's no difference between the snatch and the Hang snatch or the Hang Power snatch.\", \"She just receives the bar a little bit higher.\"]",
+        "pred": "Do a Hang Power Snatch, you'll notice that that pull is exactly the same. There's no difference between the snatch and the Hang snatch or the Hang Power snatch. She just receives the bar a little bit higher."
+    },
+    "v_ZK4Y6nOton8": {
+        "pred_atomic": "[\"Bye.\", \"Bye bye.\", \"Picture danny video money.\", \"Miss your.\", \"Hello, Miss Pearls again.\", \"Miss Ball.\", \"Make me zombie.\", \"Zoom in.\", \"Name it.\", \"Nikot 51.\", \"Boom.\", \"I shake.\", \"Now drop.\"]",
+        "pred": "Bye. Bye bye. Picture danny video money. Miss your. Hello, Miss Pearls again. Miss Ball. Make me zombie. Zoom in. Name it. Nikot 51. Boom. I shake. Now drop."
+    },
+    "v_dEpUIpmBvow": {
+        "pred_atomic": "[\"Something I just might regret.\", \"Maybe I should throw away everything I love today.\", \"28 years straight till plow all over me.\", \"Something growing in me?\", \"Something growing sight of me?\", \"Changing, growing know I don't want it.\"]",
+        "pred": "Something I just might regret. Maybe I should throw away everything I love today. 28 years straight till plow all over me. Something growing in me? Something growing sight of me? Changing, growing know I don't want it."
+    },
+    "v_kgz7c2kb4Rg": {
+        "pred_atomic": "[\"Reverse sweep starts in the back of the boat.\", \"You wind up your torso, placing it behind your seat, and sweep out and away again.\", \"Key thing to remember in Whitewater Boating, we use the reverse sweep rarely.\", \"So concentrate on the forward sweep instead.\"]",
+        "pred": "Reverse sweep starts in the back of the boat. You wind up your torso, placing it behind your seat, and sweep out and away again. Key thing to remember in Whitewater Boating, we use the reverse sweep rarely. So concentrate on the forward sweep instead."
+    },
+    "v_peiF2E05u8g": {
+        "pred_atomic": "[\"Can you tell me where the doma shaw gadget?\", \"Do you remember?\", \"I think how the jawsai and Buddha tai janga jimmy banda JAMA.\", \"One liao the Hawaiian okay kind of about beautiful Nikki shop if you like something you can say.\"]",
+        "pred": "Can you tell me where the doma shaw gadget? Do you remember? I think how the jawsai and Buddha tai janga jimmy banda JAMA. One liao the Hawaiian okay kind of about beautiful Nikki shop if you like something you can say."
+    },
+    "v_Nvf-BZNEGdI": {
+        "pred_atomic": "[\"I like it.\", \"I want to skate.\", \"Trainer stay in the middle of the floor.\", \"God.\"]",
+        "pred": "I like it. I want to skate. Trainer stay in the middle of the floor. God."
+    },
+    "v_l_0HvMt2tGg": {
+        "pred_atomic": "[\"Five and time played it till my fingers blad what the summer rough 69 and we tried real hard we got married never get far back now forever and if I had a wanna be there don't for the best.\", \"Those were the best days of my life.\"]",
+        "pred": "Five and time played it till my fingers blad what the summer rough 69 and we tried real hard we got married never get far back now forever and if I had a wanna be there don't for the best. Those were the best days of my life."
+    },
+    "v_j_r7zJWxI8w": {
+        "pred_atomic": "[\"Yeah, volcano.\"]",
+        "pred": "Yeah, volcano."
+    },
+    "v_gWbIoFrpwTY": {
+        "pred_atomic": "[\"Sam resolve.\", \"You write the words that you're writing for?\", \"But your courage gets dissolved into what, I don't know.\", \"Don't let your courage get dissolved because it's in fear.\", \"You got to find your balance.\", \"And if you find your fallen?\", \"Just scream for me and I'll be what you're falling on.\"]",
+        "pred": "Sam resolve. You write the words that you're writing for? But your courage gets dissolved into what, I don't know. Don't let your courage get dissolved because it's in fear. You got to find your balance. And if you find your fallen? Just scream for me and I'll be what you're falling on."
+    },
+    "v_8r4bF9RF0Kc": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_bz4QwqHiVlo": {
+        "pred_atomic": "[\"Ram.\", \"Jam ram sam.\", \"Sam.\", \"Sam.\"]",
+        "pred": "Ram. Jam ram sam. Sam. Sam."
+    },
+    "v_7pfHxav4b0U": {
+        "pred_atomic": "[\"The change in current really turns the boat.\", \"If you're turning your upper body, the boat's going to follow.\", \"Keep paddling forward, keep your boat on edge and keep looking into the turn.\", \"And you'll make really cool turns.\"]",
+        "pred": "The change in current really turns the boat. If you're turning your upper body, the boat's going to follow. Keep paddling forward, keep your boat on edge and keep looking into the turn. And you'll make really cool turns."
+    },
+    "v_JcAAwYpJhm8": {
+        "pred_atomic": "[\"It it.\"]",
+        "pred": "It it."
+    },
+    "v_l5ZUUChppHU": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_zxpQHLwZCug": {
+        "pred_atomic": "[\"Right, this is the knobbly one that I cut two thirds of the way through on the other side.\", \"So I'll finish it off on this side.\", \"What axe do you have using the Kelly axe?\"]",
+        "pred": "Right, this is the knobbly one that I cut two thirds of the way through on the other side. So I'll finish it off on this side. What axe do you have using the Kelly axe?"
+    },
+    "v_cPIsE2ZCWzM": {
+        "pred_atomic": "[\"Sam.\", \"Sam.\"]",
+        "pred": "Sam. Sam."
+    },
+    "v_N75m1Z4RqbA": {
+        "pred_atomic": "[\"Like Halloween boy.\", \"No didn't name that cow and must be San Diego.\", \"We avoid the safety that you love in our boy don't have a blah yabi.\", \"Soy always ask who I face the voice of wonderful god.\"]",
+        "pred": "Like Halloween boy. No didn't name that cow and must be San Diego. We avoid the safety that you love in our boy don't have a blah yabi. Soy always ask who I face the voice of wonderful god."
+    },
+    "v_IRBrTKrVCxo": {
+        "pred_atomic": "[\"One cavalry and I hold the hell and I just put in Ramad.\", \"Yeah.\", \"Sandy Ram Chaparito.\", \"Deviation.\"]",
+        "pred": "One cavalry and I hold the hell and I just put in Ramad. Yeah. Sandy Ram Chaparito. Deviation."
+    },
+    "v_jEOtcfk220s": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_ROrLMf0zXko": {
+        "pred_atomic": "[\"You perfect.\", \"Show off the move.\", \"That took you three years to get it right.\", \"Now everybody say faster.\", \"To the wild style.\"]",
+        "pred": "You perfect. Show off the move. That took you three years to get it right. Now everybody say faster. To the wild style."
+    },
+    "v_7EeO9V2B574": {
+        "pred_atomic": "[\"Escort lano begri can overlami camino to destino get there.\", \"abu Gondy can over know your best one better.\", \"I'm boost the better voice and I hear but I just feel others get jokey.\", \"Well, they love it.\", \"Evil.\"]",
+        "pred": "Escort lano begri can overlami camino to destino get there. abu Gondy can over know your best one better. I'm boost the better voice and I hear but I just feel others get jokey. Well, they love it. Evil."
+    },
+    "v_18yZR3NDaXM": {
+        "pred_atomic": "[\"Tonight is Thrasher's first game.\", \"My first game of kickball, I went one for two with a double.\", \"Make sure you tune to HBTV so you get all the updates on the season's kickball.\"]",
+        "pred": "Tonight is Thrasher's first game. My first game of kickball, I went one for two with a double. Make sure you tune to HBTV so you get all the updates on the season's kickball."
+    },
+    "v_0k0xNs8Zjb4": {
+        "pred_atomic": "[\"Om it.\", \"What the heck?\", \"Close.\"]",
+        "pred": "Om it. What the heck? Close."
+    },
+    "v_9VflCeoPr9I": {
+        "pred_atomic": "[\"Actually, Michael, it was fair.\", \"Do you want to see the instant replay?\", \"It it's the replays right here.\", \"You so foul.\", \"Grandma, go back.\", \"That was a foul.\", \"Dad, just tell him.\", \"It was foul.\"]",
+        "pred": "Actually, Michael, it was fair. Do you want to see the instant replay? It it's the replays right here. You so foul. Grandma, go back. That was a foul. Dad, just tell him. It was foul."
+    },
+    "v_51faGoLPJgM": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_eS-VU_XV1K8": {
+        "pred_atomic": "[\"Eight after four.\", \"Back corner.\", \"Corner.\", \"Touch your jar web.\", \"Center corner up.\", \"Now back under.\", \"Keep forward.\", \"Now shut down.\", \"123412 count.\", \"March, march mambo narrow and back.\", \"Brilliant.\"]",
+        "pred": "Eight after four. Back corner. Corner. Touch your jar web. Center corner up. Now back under. Keep forward. Now shut down. 123412 count. March, march mambo narrow and back. Brilliant."
+    },
+    "v_FqYhC6_CMfI": {
+        "pred_atomic": "[\"It it.\"]",
+        "pred": "It it."
+    },
+    "v_fM5egP_1DvQ": {
+        "pred_atomic": "[\"Championships for any of these jumpers because of the swirling winds.\", \"Sharilla wins the gold medal.\", \"Wendrich of Germany, second of the silver, personal best 2.24 meters.\", \"And Ingram of Bahamas.\", \"The Bronze.\"]",
+        "pred": "Championships for any of these jumpers because of the swirling winds. Sharilla wins the gold medal. Wendrich of Germany, second of the silver, personal best 2.24 meters. And Ingram of Bahamas. The Bronze."
+    },
+    "v_w_CXbraJr58": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_ObrXN_FjVD8": {
+        "pred_atomic": "[]\n",
+        "pred": null
+    },
+    "v_Pr5K2Jh2X94": {
+        "pred_atomic": "[\"House s house?\", \"Don't answer how?\"]",
+        "pred": "House s house? Don't answer how?"
+    },
+    "v_Pjnuoa4o55c": {
+        "pred_atomic": "[\"Sam.\", \"If you come for out now I do waiting.\", \"I feel fighting at the avenue.\", \"It we're running a little bit hot tonight.\", \"Reach down between my legs.\", \"Eat back.\", \"Got the stopping now better.\"]",
+        "pred": "Sam. If you come for out now I do waiting. I feel fighting at the avenue. It we're running a little bit hot tonight. Reach down between my legs. Eat back. Got the stopping now better."
+    },
+    "v_Ocid5pcnSVY": {
+        "pred_atomic": "[\"Sam.\", \"SA.\", \"SA.\", \"Om sam sam.\"]",
+        "pred": "Sam. SA. SA. Om sam sam."
+    },
+    "v_PwRqqR1YmPM": {
+        "pred_atomic": "[\"Sail is in blue.\", \"The pillows you try to push drive.\", \"We will never see the truth around another.\", \"Red tape to keep the truth can we find all right.\", \"Will be victorious mind control revolution.\"]",
+        "pred": "Sail is in blue. The pillows you try to push drive. We will never see the truth around another. Red tape to keep the truth can we find all right. Will be victorious mind control revolution."
+    },
+    "v_Lshue6AmrIw": {
+        "pred_atomic": "[\"He has one of the boys getting an old fashioned shoe shine.\", \"A spit shine?\", \"Holy Millie.\", \"Wanted to go to this.\"]",
+        "pred": "He has one of the boys getting an old fashioned shoe shine. A spit shine? Holy Millie. Wanted to go to this."
+    },
+    "v_vSv1qMMt4Bk": {
+        "pred_atomic": "[\"It can be life threatening for people 50 and older, someone with a medical condition, or someone who doesn't work exercise regularly.\", \"Shoveling snow is an aerobic activity, so experts say pace yourself.\", \"Pay attention to your form to avoid straining your back.\"]",
+        "pred": "It can be life threatening for people 50 and older, someone with a medical condition, or someone who doesn't work exercise regularly. Shoveling snow is an aerobic activity, so experts say pace yourself. Pay attention to your form to avoid straining your back."
+    },
+    "v_5tFfEA1JWjA": {
+        "pred_atomic": "[\"The Mic and Drill is a great warm up drill for shooting and footwork.\", \"High jump off 1ft and put in a layup while keeping the ball up high.\", \"Great for big guys, but for perimeter players as well.\"]",
+        "pred": "The Mic and Drill is a great warm up drill for shooting and footwork. High jump off 1ft and put in a layup while keeping the ball up high. Great for big guys, but for perimeter players as well."
+    },
+    "v_qmfZw9eEpIU": {
+        "pred_atomic": "[\"Sam dam.\"]",
+        "pred": "Sam dam."
+    },
+    "v_ltlJ2sOx4as": {
+        "pred_atomic": "[\"It it.\", \"It it it it.\"]",
+        "pred": "It it. It it it it."
+    },
+    "v_X5kj4fZ38rc": {
+        "pred_atomic": "[\"Sam dam.\", \"Sam.\", \"Ram.\", \"Dam.\", \"Sam Ram.\", \"Sam ram.\", \"Ram dam.\", \"Ram Ram.\", \"Ram Dam.\"]",
+        "pred": "Sam dam. Sam. Ram. Dam. Sam Ram. Sam ram. Ram dam. Ram Ram. Ram Dam."
+    },
+    "v_GChGC-VJZHs": {
+        "pred_atomic": "[\"In ten 987-65-4321.\", \"All right, I'm going to start up my dirt bike now.\", \"Here goes.\"]",
+        "pred": "In ten 987-65-4321. All right, I'm going to start up my dirt bike now. Here goes."
+    },
+    "v_N4qhryre_TE": {
+        "pred_atomic": "[\"Angel Rice: I would like to see more events like this because it's less stressful.\", \"Michael Chavez: I'm an elite power tumbler for my nation.\", \"Donna Loud: I am here to compete in the extreme tumbling division.\", \"We have so many things going on here.\"]",
+        "pred": "Angel Rice: I would like to see more events like this because it's less stressful. Michael Chavez: I'm an elite power tumbler for my nation. Donna Loud: I am here to compete in the extreme tumbling division. We have so many things going on here."
+    },
+    "v_UaO7bS5Ky6M": {
+        "pred_atomic": "[\"Ram.\", \"It Ram.\", \"Sam.\", \"Sam.\"]",
+        "pred": "Ram. It Ram. Sam. Sam."
+    },
+    "v_4oi6dXfpJS4": {
+        "pred_atomic": "[\"And now on forex aria bro ram saria.\"]",
+        "pred": "And now on forex aria bro ram saria."
+    },
+    "v_4mRkWNLE66E": {
+        "pred_atomic": "[\"Ram SA.\", \"Sam it's we.\", \"It sam we're.\"]",
+        "pred": "Ram SA. Sam it's we. It sam we're."
+    },
+    "v_7OcxT66BxX0": {
+        "pred_atomic": "[\"I bow on the paddle not by the fuel without the coming it better be there.\", \"1ft in the grave I'm cooking up a thing never came down dressed for your friend when he got said not much.\", \"You're always gonna look but you're never gonna touch 1ft In The Grave.\"]",
+        "pred": "I bow on the paddle not by the fuel without the coming it better be there. 1ft in the grave I'm cooking up a thing never came down dressed for your friend when he got said not much. You're always gonna look but you're never gonna touch 1ft In The Grave."
+    },
+    "v_Oskk7eLgerM": {
+        "pred_atomic": "[\"SA the smile, Ram.\", \"But I know.\"]",
+        "pred": "SA the smile, Ram. But I know."
+    },
+    "v_mY7QdIn51S8": {
+        "pred_atomic": "[\"He doesn't need his name up in lights.\", \"He just wants to be heard.\", \"Nobody really knows how or why he works so hard.\", \"Eight years in the making patiently waiting to blow.\"]",
+        "pred": "He doesn't need his name up in lights, he just wants to be heard. Nobody really knows how or why he works so hard. Eight years in the making patiently waiting to blow."
+    },
+    "v_YIq3Tar9x6s": {
+        "pred_atomic": "[\"Kelly, please stick your heels up and make it seriously again.\", \"Your hands right by my camera.\", \"Like my scorpion's, like, right there.\", \"Sorry.\", \"Amanda I know.\", \"She's so cute.\"]",
+        "pred": "Kelly, please stick your heels up and make it seriously again. Your hands right by my camera. Like my scorpion's, like, right there. Sorry. Amanda I know. She's so cute."
+    },
+    "v_4VdS1eN3dv4": {
+        "pred_atomic": "[\"I'm wetting it down wet it down like a phone\", \"it slow shatterbank the mold\", \"need to drop the hits like they la get the f*** up.\"]",
+        "pred": "I'm wetting it down wet it down like a phone it slow shatterbank the mold need to drop the hits like they la get the f*** up."
+    },
+    "v_le7JdKQB65I": {
+        "pred_atomic": "[\"Emily from Everydayme.com.\", \"My shows you how to apply basic makeup without a mirror.\", \"Here's a trick for applying your eyeliner and your lipstick.\", \"For the real challenge contouring, use the darker color of your contouring palette.\", \"Remember, practice makes perfect.\"]",
+        "pred": "Emily from Everydayme. com. My shows you how to apply basic makeup without a mirror. Here's a trick for applying your eyeliner and your lipstick. For the real challenge contouring, use the darker color of your contouring palette. Remember, practice makes perfect."
+    }
+}

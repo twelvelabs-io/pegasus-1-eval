@@ -1,0 +1,8 @@
+File name is in the structure of (algorithm)_(data)_(filetype).json
+
+algorithm: (asronly: whisper+chatGPT, videogpt: video chatGPT)
+data: (msrvtt, vgpt: 499 videos from video chatGPT)
+filetype: (src: raw caption, atomic: atomized sentences)
+
+
+
